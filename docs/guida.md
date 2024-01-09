@@ -1,6 +1,6 @@
 # Guida al server
 ## Mappa del server
-Tramite la mod Dynmap è possibile visualizzare tramite web una [mappa del server](map.sbekucraft.it) completa di tutti i chunk attualmente esplorati.
+Tramite la mod Dynmap è possibile visualizzare tramite web una [mappa del server](https://map.sbekucraft.it) completa di tutti i chunk attualmente esplorati.
 Questo perché mentre i giocatori della Java edition possono usare mod come journeymap, bluemap, etc.. per avere una mappa locale, i giocatori bedrock non possono installare mod.
 Questa mappa cerca di bilanciare la situazione.
 
