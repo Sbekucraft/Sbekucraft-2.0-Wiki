@@ -11,5 +11,5 @@ nav:
   - 'regole.md'
   - 'guida.md'
   - 'modlist.md'
-  - client:
+  - 'Client':
     - 'client/client-index.md'
