@@ -42,5 +42,6 @@ Il server offre le stesse possibilità a giocatori Bedrock e Java (Vanilla e non
 Attualmente vi è compatibilità lato server per:
 - [Roughly Enough Items](https://modrinth.com/mod/rei)
 - [AppleSkin](https://modrinth.com/mod/appleskin)
+- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 
 Per aggiungere mod di compatibilità basta contattare i moderatori del server, che ne valuteranno l'aggiunta.
