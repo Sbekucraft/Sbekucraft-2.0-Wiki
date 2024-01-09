@@ -30,6 +30,7 @@ Puoi capire se un giocatore sta usando la versione bedrock grazie al prefisso `.
 Tutte le mod indicate sono installate lato server, e dunque sono automaticamente compatibili anche con i client bedrock.
 ## Quality of life
 Nel server sono presenti alcune mod di quality of life:
+
 - La mod [*harvest with ease*](https://modrinth.com/mod/harvest-with-ease) permette di prendere ortaggi dall'orto premendo il tasto destro con una falce in mano;
 - La mod [*tree harvester*](https://modrinth.com/mod/tree-harvester) ti permette di distruggere un albero intero semplicemente distruggendo i suoi blocchi inferiori mentre tieni un'ascia in mano; infine la mod;
 - La mod [extended bone meal](https://modrinth.com/mod/extended-bone-meal) permette di usare la farina d'ossa su tutte le piante del gioco. Inoltre usare la farina d'ossa da accovacciati con abbastanza stack nell'inventario, userà tanta farina quanta necessaria per far crescere la pianta fino alla maturazione completa;
@@ -40,6 +41,7 @@ Queste mod semplificano la vita dei giocatori velocizzando alcuni processi lenti
 ## Compatiblità client side
 Il server offre le stesse possibilità a giocatori Bedrock e Java (Vanilla e non), tuttavia è possibile inserire compatibilità a mod client side che richiedono anche la controparte server, fin quando la mod non crea disuguaglianze e/o diminiuisce l'esperienza dei giocatori vanilla.
 Attualmente vi è compatibilità lato server per:
+
 - [Roughly Enough Items](https://modrinth.com/mod/rei)
 - [AppleSkin](https://modrinth.com/mod/appleskin)
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
