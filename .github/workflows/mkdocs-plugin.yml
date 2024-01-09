@@ -19,6 +19,13 @@ jobs:
         cache: 'pip'
     - run: pip install -r requirements.txt
     - run: mkdocs build
-    - uses: stefanzweifel/git-auto-commit-action@v5
+    - name: Setup Pages
+      uses: actions/configure-pages@v3
+    - name: Upload Artifact
+      uses: actions/upload-pages-artifact@v2
       with:
-        commit_message: "Updated gh-pages."
+        # upload entire directory
+        path: 'docs'
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v2
