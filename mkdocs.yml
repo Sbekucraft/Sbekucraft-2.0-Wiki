@@ -8,5 +8,6 @@ theme:
     primary: black
 nav:
   - 'index.md'
-  - 'guida.md'
   - 'regole.md'
+  - 'guida.md'
+  - 'modlist.md'
