@@ -21,9 +21,11 @@ jobs:
         cache: 'pip'
     - run: pip install -r requirements.txt
     - run: mkdocs build
+    - name: Copy files in _site
+      run: -r cp docs/ site/
     - name: Fix permissions
       run: |
-        chmod -c -R +rX "docs/" | while read line; do
+        chmod -c -R +rX "_site/" | while read line; do
           echo "::warning title=Invalid file permissions automatically fixed::$line"
         done
     - name: Upload Pages artifact
