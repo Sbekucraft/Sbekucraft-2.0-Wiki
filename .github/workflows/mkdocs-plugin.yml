@@ -22,7 +22,7 @@ jobs:
     - run: pip install -r requirements.txt
     - run: mkdocs build
     - name: Copy files in _site
-      run: cp -r docs/ _site/
+      run: cp docs/* _site/.
     - name: Fix permissions
       run: |
         chmod -c -R +rX "_site/" | while read line; do
@@ -49,4 +49,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4 # or specific "vX.X.X" version tag for this action
+        uses: actions/deploy-pages@v3 # or specific "vX.X.X" version tag for this action
