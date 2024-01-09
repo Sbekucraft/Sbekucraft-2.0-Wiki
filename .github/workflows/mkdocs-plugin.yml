@@ -5,27 +5,33 @@ on:
       - main
 jobs:
   build:
-    name: Deploy docs
+    name: Build docs
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-    - uses: actions/checkout@v4
+    - name: Checkout
+      uses: actions/checkout@v4
       with:
         ref: ${{ github.head_ref }}
-    - uses: actions/setup-python@v5
+    - name: Download dependencies
+      uses: actions/setup-python@v5
       with:
         python-version: '3.8'
         cache: 'pip'
     - run: pip install -r requirements.txt
     - run: mkdocs build
-    - name: Setup Pages
-      uses: actions/configure-pages@v3
-    - name: Upload Artifact
+    - name: Upload artifact
       uses: actions/upload-pages-artifact@v2
-      with:
-        # upload entire directory
-        path: 'docs'
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v2
+  deploy:
+    name: Deploy Docs to Pages
+    environment:
+      name: github-pages
+      url: ${{steps.deployment.outputs.page_url}}
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
+    
