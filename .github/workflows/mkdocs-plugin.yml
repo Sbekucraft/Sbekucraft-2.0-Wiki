@@ -22,7 +22,7 @@ jobs:
     - run: pip install -r requirements.txt
     - run: mkdocs build
     - name: Copy files in _site
-      run: cp docs/* _site/.
+      run: mkdir _site && cp docs/* _site/.
     - name: Fix permissions
       run: |
         chmod -c -R +rX "_site/" | while read line; do
