@@ -3,7 +3,7 @@
 Lo scopo del server è quello di creare un ambiente positivo in cui i giocatori possano divertirsi e condividere momenti insieme, per cui le regole in elenco non si devono considerare come "strette", ma piuttosto delle linee guida flessibili per la community. 
 Trattandosi di un server ad accesso ristretto non ci aspettiamo troppi attegiamenti problematici, tuttavia in caso di abusi delle regole, lo staff valuterà caso per caso la punizione.
 ## Requisiti di accesso
-L'accesso è server è ristretto alla community di Sabaku No Maiku, dunque è necessario essere patreon o sub su twitch ed iscriversi alla whitelist tramite https://whitelist.sbekucraft.it per accedere.
+L'accesso è server è ristretto alla community di Sabaku No Maiku, dunque è necessario essere patreon o sub su twitch ed iscriversi alla whitelist tramite [https://whitelist.sbekucraft.it](https://whitelist.sbekucraft.it) per accedere.
 ## Termini di utilizzo
 Giocando sul server, partecipando attivamente alle discussioni sui canali ufficiali ed interagendo con la community, il giocatore accetta automaticamente le regole imposte dallo staff della community.
 Lo staff si riserva il diritto di punire chi non segue le regole silenziando, kickando o bannando dal server.
