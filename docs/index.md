@@ -3,4 +3,4 @@
 - [Regole](regole.md)
 - [Guida al server](guida.md)
 - [Modlist](modlist.md)
-- [Client](client/client-index.md)
+- [Client](client/index.md)
