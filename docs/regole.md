@@ -17,7 +17,7 @@ Lo staff si riserva il diritto di punire chi non segue le regole silenziando, ki
 5. È vietata la realizzazione di strutture che danneggiano le performance del server quali lag machine o abuso di vulnerabilità note nei plugin del server.
 6. Comportamenti che vietano i termini di servizio e le regole generali di Minecraft possono portare a ban immediati.
 7. Non costituirà scusante, in caso di violazione, la mancata conoscenza del regolamento. Inoltre, sarà a discrzione dei moderatori intervenire in caso di elusione dello stesso.
-8. Se qualcosa non è specificato nelle regole, lo staff si riserva il diritto di punire giocatori retroattivamente, ma non saranno attuali ban permanenti. Se avete dubbi su un determinato atteggiamento, contattate lo staff e/o usate il buon senso e il rispetto reciproco.
+8. Se avete dubbi su un determinato atteggiamento, contattate lo staff e/o usate il buon senso e il rispetto reciproco.
 ## Regole di moderazione
 1. Lo staff del server si impegna per non abusare dei propri poteri e delle proprie relazioni per garantire vantaggi sleali a sé stessi o altri giocatori. 
 2. Al giocatore è richiesto di collaborare al buon mantenimento del server, segnalando i comportamenti nocivi con opportune prove.

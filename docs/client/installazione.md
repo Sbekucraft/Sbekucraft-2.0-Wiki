@@ -9,7 +9,17 @@ Per installarlo è necessario quindi un launcher apposito che supporti il downlo
     Dopo averlo, esso sarà disponibile nella home e nella libreria per poter essere avviato.
 
 === "Prism Launcher"
-    TODO
+    [Prism Launcher](https://prismlauncher.org) consente di creare diverse istanze di minecraft ognuna con la propria cartella isolata, e di accedervi da un'interfaccia intuitiva.
+    Grazie alle integrazioni con le piattaforme di modding è anche possibile scaricare direttamente dal launcher tutto il necessario per moddare o addirittura scaricare direttamente modpack.
 
+    Una volta scaricato ed installato il launcher, basta seguire queste semplici istruzioni:
+
+    ![Cazzo](../img/guida-prism-01-02.png)
+    Per prima cosa bisogna accede al proprio account microsoft per poter verificare la propria licenza di gioco.
+
+    Una volta effettuato l'accesso, tramite la sezione "aggiungi istanza", è possibile scegliere dalla lista a sinistra "Modrinth" come sorgente di modpack e poi cercare "Sbekucraft" tramite la barra di ricerca.
+    Infine, selezionare OK tramite il pulsante situato in basso a destra.
+
+    Prism Launcher scaricherà il modpack automaticamente, e basterà fare doppio click sull'icona spuntata nella home del programma per avviare il modpack.
 === "AT Launcher"
     TODO
