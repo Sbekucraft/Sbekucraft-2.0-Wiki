@@ -11,7 +11,7 @@ nav:
   - 'regole.md'
   - 'guida.md'
   - 'modlist.md'
-  - 'client/index.md':
+  - 'Client':
     - 'client/installazione.md'
     - 'client/guida.md'
     - 'client/modlist.md'
