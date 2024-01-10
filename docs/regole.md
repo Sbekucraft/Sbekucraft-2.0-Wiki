@@ -8,7 +8,6 @@ L'accesso è server è ristretto alla community di Sabaku No Maiku, dunque è ne
 Giocando sul server, partecipando attivamente alle discussioni sui canali ufficiali ed interagendo con la community, il giocatore accetta automaticamente le regole imposte dallo staff della community.
 Lo staff si riserva il diritto di punire chi non segue le regole silenziando, kickando o bannando dal server.
 ## Regole generali
-Questa sezione contiene 
 1. Sono vietati tutti i comportamenti riconducibili discriminazioni di qualunque tipo, con particolare menzione alla discriminazione di razza, genere, sessualità e religione.
 2. Sono vietate tutte le forme di persecuzione, molestia o atteggiamenti tossici nei confronti della community ed altri giocatori.
 3. È vietata la promozione o distribuzione di materiale o ideologie estremiste o nocive.
