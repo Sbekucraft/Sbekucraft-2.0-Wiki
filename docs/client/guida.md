@@ -1,4 +1,4 @@
-# Guida all'utilizzo
+# Guida all'uso
 ## Funzionalità
 TODO
 ## Aggiungere mod
