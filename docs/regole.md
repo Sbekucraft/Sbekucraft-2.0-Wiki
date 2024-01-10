@@ -17,5 +17,5 @@ Lo staff si riserva il diritto di punire chi non segue le regole silenziando, ki
 7. La mancata conoscenza o lettura delle regole non è una ragione valida per non seguirle.
 8. Se qualcosa non è specificato nelle regole, lo staff si riserva il diritto di punire giocatori retroattivamente, ma non saranno attuali ban permanenti. Se avete dubbi su un determinato atteggiamento, contattate lo staff e/o usate il buon senso e il rispetto reciproco.
 ## Regole di moderazione
-1. Lo staff del server accetta di non abusare dei propri poteri e delle proprie relazioni per garantire vantaggi sleali a se stessi o altri giocatori.
+1. Lo staff del server accetta di non abusare dei propri poteri e delle proprie relazioni per garantire vantaggi sleali a sé stessi o altri giocatori.
 2. Se un giocatore ritiene che un altro giocatore stia attivamente rompendo o abusando delle regole volontariamente, questo deve mostrare delle prove scritte o registrate.

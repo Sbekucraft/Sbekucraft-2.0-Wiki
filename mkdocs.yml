@@ -6,6 +6,10 @@ theme:
     primary: black
   features:
     - navigation.expand
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
 nav:
   - 'index.md'
   - 'regole.md'
@@ -14,4 +18,4 @@ nav:
   - 'Client':
     - 'client/installazione.md'
     - 'client/guida.md'
-    - 'client/modlist.md'
+    - 'client/content.md'

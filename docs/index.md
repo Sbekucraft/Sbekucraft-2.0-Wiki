@@ -4,6 +4,6 @@
 - [Guida al server](guida.md)
 - [Modlist](modlist.md)
 - Client
-  * [Installazione](installazione.md)
-  * [Guida all'uso](guida.md)
-  * [Modlist](modlist.md)
+    * [Installazione](client/installazione.md)
+    * [Guida all'uso](client/guida.md)
+    * [Modlist](client/content.md)
