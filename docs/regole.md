@@ -5,10 +5,10 @@ Trattandosi di un server ad accesso ristretto non ci aspettiamo troppi attegiame
 ## Requisiti di accesso
 L'accesso è server è ristretto alla community di Sabaku No Maiku, dunque è necessario essere patreon o sub su twitch ed iscriversi alla whitelist tramite [https://whitelist.sbekucraft.it](https://whitelist.sbekucraft.it) per accedere.
 ## Termini di utilizzo
-Giocando sul server, partecipando attivamente alle discussioni sui canali ufficiali ed interagendo con la community, il giocatore accetta automaticamente le regole imposte dallo staff della community.
+Giocando sul server, partecipando attivamente alle discussioni sui canali ufficiali ed interagendo con la community, il giocatore accetta automaticamente le regole imposte dallo staff.
 Lo staff si riserva il diritto di punire chi non segue le regole silenziando, kickando o bannando dal server.
 ## Regole generali
-1. Sono vietati tutti i comportamenti riconducibili discriminazioni di qualunque tipo, con particolare menzione alla discriminazione di razza, genere, sessualità e religione.
+1. Sono vietati tutti i comportamenti riconducibili a discriminazioni di qualunque tipo, con particolare menzione alla discriminazione di razza, genere, sessualità e religione.
 2. Sono vietate tutte le forme di persecuzione, molestia o atteggiamenti tossici nei confronti della community ed altri giocatori.
 3. È vietata la promozione o distribuzione di materiale o ideologie estremiste o nocive.
 4. È vietato l'uso di xray, client modificati e bot ai fini di ottenere risorse preziose che diano un vantaggio competitivo rispetto agli altri giocatori.
