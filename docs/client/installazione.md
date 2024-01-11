@@ -8,7 +8,8 @@ A seconda del launcher di propria preferenza, è possibile seguire la guida sott
     Permette anche l'importazione di profili dagli altri launcher più utilizzati, si integra alla perfezione con la piattaforma Modrinth stessa ed è open source.  
     Dopo averlo installato, sarà necessario loggare col proprio account Minecraft tramite icona in alto a sinistra.  
     Successivamente, dalla pagina di ricerca, sarà possibile immettere *Sbekucraft* e installare il modpack.  
-    Il modpack sarà poi disponibile nella home e nella libreria  pronto per poter essere avviato.
+    Il modpack sarà poi disponibile nella home e nella libreria pronto per poter essere avviato.  
+    Prima di avviare il modpack è strettamente necessario assicurarsi di aver disabilitato la forzatura del fullscreen dalle impostazioni di Modrinth, oppure di sovrascrivere le impostazioni di Modrinth per il modpack in modo da disabilitare la forzatura del fullscreen.
 
 === "Prism Launcher"
     [Prism Launcher](https://prismlauncher.org) consente di creare diverse istanze di minecraft ognuna con la propria cartella isolata, e di accedervi da un'interfaccia intuitiva.
