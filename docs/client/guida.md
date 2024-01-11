@@ -31,5 +31,5 @@
     - Shader incluse.
 
 === "Aggiungere contenuto"
-    - L'aggiunta di mod, texture pack o shader non presenti tra quelle predefinite nel modpack è da considerarsi lecito purché l'utilizzo di esse non vada ad infrangere il [regolamento del server](https://wiki.sbekucraft.it/regole) in alcun modo.  
+    L'aggiunta di mod, texture pack o shader non presenti tra quelle predefinite nel modpack è da considerarsi lecito purché l'utilizzo di esse non vada ad infrangere il [regolamento del server](https://wiki.sbekucraft.it/regole) in alcun modo.  
     In caso di dubbio, è sempre possibile rivolgersi ai moderatori.
