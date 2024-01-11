@@ -1,6 +1,7 @@
 # Installazione
 Il [modpack client](https://modrinth.com/modpack/sbekucraft) è hostato sulla piattaforma [Modrinth](https://modrinth.com).  
-Per installarlo è necessario quindi un launcher apposito che supporti il download e l'installazione dei modpack Modrinth.
+Per installarlo è necessario quindi un launcher apposito che supporti il download e l'installazione dei modpack Modrinth.  
+A seconda del launcher di propria preferenza, è possibile seguire la guida sotto per installare e avviare il modpack.
 
 === "Modrinth Launcher"
     [Qui](https://modrinth.com/app) è possibile scaricare il launcher di Modrinth.  
@@ -21,5 +22,6 @@ Per installarlo è necessario quindi un launcher apposito che supporti il downlo
     Infine, selezionare OK tramite il pulsante situato in basso a destra.
 
     Prism Launcher scaricherà il modpack automaticamente, e basterà fare doppio click sull'icona spuntata nella home del programma per avviare il modpack.
+
 === "AT Launcher"
     TODO
