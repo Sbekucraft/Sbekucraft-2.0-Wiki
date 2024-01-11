@@ -21,7 +21,7 @@
     Visualizzazione della protezione dell'armatura indossata:  
     ![protection](../img/protection.png)  
     Visualizzazione di assorbimento e resistenza:  
-    ![saturation and resistance](../img/saturation-protection.png)
+    ![saturation and resistance](../img/saturation-resistance.png)
     
     ---
     ### [Better Mount HUD](https://modrinth.com/mod/better-mount-hud)
@@ -202,7 +202,7 @@
     
     ---
     ### [Enhanced Block Entities](https://modrinth.com/mod/ebe)
-    Richiesta dalle shader e da [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations).
+    Richiesta dalle [shader](#__tabbed_1_5) e da [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations).
     
     ---
     ### [Fabric API](https://modrinth.com/mod/fabric-api)
@@ -238,11 +238,11 @@
     
     ---
     ### [Entity Model Features (EMF)](https://modrinth.com/mod/entity-model-features)
-    Richiesta dalle shader e da [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations).
+    Richiesta dalle [shader](#__tabbed_1_5) e da [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations).
     
     ---
     ### [Entity Texture Features (ETF)](https://modrinth.com/mod/entitytexturefeatures)
-    Richiesta dalle shader e da [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations).
+    Richiesta dalle [shader](#__tabbed_1_5) e da [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations).
     
     ---
     ### [libIPN](https://modrinth.com/mod/libipn)
