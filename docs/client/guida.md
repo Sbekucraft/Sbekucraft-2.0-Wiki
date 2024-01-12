@@ -28,8 +28,47 @@
     - Animazioni aggiuntive per quando si mangia e per la visuale in terza persona.
     - Tridimensionalità nella texture di molti blocchi.
     - Luccichio dei minerali.
-    - Shader incluse.
+    - Shader incluse, sia per basse che per alte performace.
+
+=== "Disabilitare contenuto"
+    ### Mod
+    In generale, la disabilitazione di mod non è mai consigliata, soprattutto nel caso di utenti non esperti.
+
+    ---
+    ### Texture pack
+    La disabilitazione di texture pack è consigliata esclusivamente se quelli di default non sono di proprio gradimento.
+
+    - Nel caso si scelga di disabilitare **Fresh Animation**, è necessario disabilitare anche **Reimagined FA Patch**, **Reimagined Fixes** e **Pigs Reimagined**.
+    - Nel caso si scelga di disabilitare **Spryzeen's Ore Glint**, è necessario disabilitare anche il rispettivo **Coal Addon**.
+  
+    Prima di disabilitare qualsiasi texture pack, è bene appuntarsi l'ordine in cui sono attualmente poiché, nel caso si scelga di riabilitare dei texture pack precedentemente disabilitati, è necessario rispettare l'ordine così com'è.  
+    Per misura di sicurezza, l'ordine dei texture pack è riportato di seguito dall'alto verso il basso:
+
+    - Default Dark Mode
+    - Reimagined Night Panorama
+    - Even Better Enchants (EBE)
+    - Reimagined Fixes
+    - Reimagined FA Patch
+    - Fresh Animations
+    - Pigs Reimagined
+    - Bees Reimagined
+    - Rails Reimagined
+    - Torches Reimagined
+    - Ore Glint Coal Addon
+    - Ore Glint - Sodium
+    - Ore Variants
+    - Hellim's 3D Blocks
+    - Glass Pane Culling Fix
+    - Default Connected Textures
+    - Eating Animation
+    - Sodium Translations
+    - Fabric Mods
+    - Default
+
+    ---
+    ### Shader
+    Disabilitare le shader è consigliato nel caso in cui nemmeno la shader più performante, Miniature Shader, permetta di giocare a un livello di fluidità sufficiente.
 
 === "Aggiungere contenuto"
     L'aggiunta di mod, texture pack o shader non presenti tra quelle predefinite nel modpack è da considerarsi lecito purché l'utilizzo di esse non vada ad infrangere il [regolamento del server](https://wiki.sbekucraft.it/regole) in alcun modo.  
-    In caso di dubbio, è sempre possibile rivolgersi ai moderatori.
+    In caso di dubbio, è sempre possibile e consigliato rivolgersi ai moderatori.

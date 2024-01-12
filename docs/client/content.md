@@ -189,7 +189,7 @@
     Richiesta dalla mod [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions).
     
     ---
-    ### [CIT Resewn]()
+    ### [CIT Resewn](https://github.com/dicedpixels/CITResewn/releases/tag/1.20.4-1.1.4-dicedpixels)
     Richiesta dal texture pack [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants).
 
     ---
