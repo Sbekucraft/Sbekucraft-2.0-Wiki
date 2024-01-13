@@ -31,6 +31,10 @@
     ---
     ### [BetterF3](https://modrinth.com/mod/betterf3)
     Migliora l'aspetto e le informazioni mostrate dal menù apribile con F3.
+
+    ---
+    ### [Bobby](https://modrinth.com/mod/bobby)
+    Permette di avere una distanza di render superiore rispetto a quella del server tramite cache dei chunk.
     
     ---
     ### [Cake Chomps](https://modrinth.com/mod/cake-chomps)
