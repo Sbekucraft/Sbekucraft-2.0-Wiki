@@ -69,6 +69,10 @@
     ### [Fixed anvil repair cost](https://modrinth.com/mod/fixed-anvil-repair-cost)
     Patches the anvil to set the default level cost, material cost and percentage repaired.
 
+    ---
+    ### [Dynamic Lights](https://modrinth.com/datapack/dynamic-lights/version/1.7.1+mod)
+    Supported entities and items such as torches or lanterns emit light!
+
 === "Amministrazione"
     ### [Anti Xray](https://modrinth.com/mod/anti-xray)
     A lightweight mod that allows server owners to combat xrayers.
