@@ -45,6 +45,10 @@
     Per ogni messaggio in chat, aggiunge l'icona della testa del giocatore che ha inviato il messaggio.
 
     ---
+    ### [Client Tweaks](https://modrinth.com/mod/client-tweaks)
+    Principalmente piccoli QoL visivi in prima persona.
+
+    ---
     ### [Continuity](https://modrinth.com/mod/continuity)
     Rende alcune texture più continue, rimuovendo i bordi netti tra blocchi contigui dello stesso tipo, principalmente per il vetro.  
     ![glass](../img/glass.png)
