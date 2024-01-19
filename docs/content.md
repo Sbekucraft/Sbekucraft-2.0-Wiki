@@ -32,10 +32,6 @@
     A Google Maps-like map for your Minecraft server that can be viewed in a browser
 
     ---
-    ### [Villager Names](https://modrinth.com/mod/villager-names-serilum)
-    Gives all villager entities a default or custom name to liven up the world.
-
-    ---
     ### [Mob Captains](https://modrinth.com/datapack/mob-captains)
     Rare and strong mobs will spawn, dropping illegally enchanted gear.
 
@@ -181,6 +177,14 @@
     ### [FabricProxy-Lite](https://modrinth.com/mod/fabricproxy-lite)
     Fabric mod for support forward player data from velocity
 
+    ---
+    ### [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
+    Placeholder and Text manipulation library for your Minecraft mods.
+
+    ---
+    ### [PAPI Proxy Bridge](https://modrinth.com/plugin/papiproxybridge)
+    A bridge library plugin for using PlaceholderAPI on proxy servers
+
 === "Plugin per Velocity"
     ### [Geyser](https://geysermc.org)
     Geyser is a program that allows Minecraft: Bedrock Edition clients to join Minecraft: Java Edition servers, allowing for true cross-platform between both editions of the game.
@@ -204,3 +208,7 @@
     ---
     ### [Maintenance](https://hangar.papermc.io/kennytv/Maintenance)
     The most customizable maintenance plugin for your Minecraft server you can find.
+
+    ---
+    ### [PAPI Proxy Bridge](https://modrinth.com/plugin/papiproxybridge)
+    A bridge library plugin for using PlaceholderAPI on proxy servers
