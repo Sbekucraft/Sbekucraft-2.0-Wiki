@@ -167,6 +167,10 @@
     ---
     ### [Lithium](https://modrinth.com/mod/lithium)
     Mod di ottimizzazione generale della logica di gioco.
+
+    ---
+    ### [Model Gap Fix](https://modrinth.com/mod/modelfix)
+    Rimuove gli errori di rendering dagli oggetti in mano.
     
     ---
     ### [ModernFix](https://modrinth.com/mod/modernfix)
