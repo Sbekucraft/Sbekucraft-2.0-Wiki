@@ -38,7 +38,7 @@
     ### Texture pack
     La disabilitazione di texture pack è consigliata esclusivamente se quelli di default non sono di proprio gradimento.
 
-    - Nel caso si scelga di disabilitare **Fresh Animation**, è necessario disabilitare anche **Reimagined FA Patch**, **Reimagined Fixes** e **Pigs Reimagined**.
+    - Nel caso si scelga di disabilitare **Fresh Animation**, è necessario disabilitare anche **Reimagined FA Patch** e **Reimagined Fixes**.
     - Nel caso si scelga di disabilitare **Spryzeen's Ore Glint**, è necessario disabilitare anche il rispettivo **Coal Addon**.
   
     Prima di disabilitare qualsiasi texture pack, è bene appuntarsi l'ordine in cui sono attualmente poiché, nel caso si scelga di riabilitare dei texture pack precedentemente disabilitati, è necessario rispettare l'ordine così com'è.  
@@ -50,8 +50,8 @@
     - Reimagined Fixes
     - Reimagined FA Patch
     - Fresh Animations
-    - Pigs Reimagined
     - Bees Reimagined
+    - Chests Reimagined
     - Rails Reimagined
     - Torches Reimagined
     - Ore Glint Coal Addon

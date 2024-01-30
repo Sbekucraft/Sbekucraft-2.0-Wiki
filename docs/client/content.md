@@ -265,9 +265,9 @@
     Rende le api più carine e piccole.
     
     ---
-    ### Dark Ore Glint
-    Addon per [Ore Glint](#ore-glint) che aggiunge il luccichio anche per il carbone.
-    
+    ### [Chests Reimagined]()
+    Modifica l'aspetto delle chest e ottimizza le loro animazioni.
+
     ---
     ### [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
     Rende la GUI in dark mode.
@@ -289,21 +289,20 @@
     Aggiunge un luccichio ai minerali in modo da renderli più riconoscibili.
     
     ---
-    ### [Ore Variants](https://modrinth.com/resourcepack/ore-variants)
-    Aggiunge un po' di variazione nelle texture dei minerali.
+    ### Ore Glint - Coal Addon
+    Addon per [Ore Glint](#ore-glint) che aggiunge il luccichio anche per il carbone.
     
     ---
-    ### [Pigs Reimagined]()
-    In origine serve a modificare la texture dei maiali, ma in questo caso specifico è invece necessaria per il corretto funzionamento di [Reimagined FA Patch](#reimagined-fa-patch).
+    ### [Ore Variants](https://modrinth.com/resourcepack/ore-variants)
+    Aggiunge un po' di variazione nelle texture dei minerali.
     
     ---
     ### [Rails Reimagined]()
     Rende la texture delle rotaie tridimensionale.
     
     ---
-    ### [Reimagined FA Patch]()
-    Ha effetto su molti mob e le chest.  
-    Cambia le loro texture rendendole più gradevoli, mantenendo la compatibilità con le animazioni introdotte da [Fresh Animations](#fresh-animations).
+    ### [Reimagined Fresh Animations Patch](https://modrinth.com/resourcepack/reimagined-fresh-animations-patch)
+    Ha effetto su molti mob, cambiandone le texture rendendole più gradevoli, mantenendo la compatibilità con le animazioni introdotte da [Fresh Animations](#fresh-animations).
     
     ---
     ### Reimagined Fixes
@@ -314,7 +313,7 @@
     Sostituisce i soliti panorami nella schermata del menù principale di Minecraft con panorami notturni.
     
     ---
-    ### [Torches Reimagined]()
+    ### [Torches Reimagined](https://modrinth.com/resourcepack/torches-reimagined)
     Cambia molto leggermente la texture delle torce rendendola più vibrante.
     
     ---
@@ -324,9 +323,10 @@
 === "Shader"
     ### [Complementary Shaders Reimagined](https://modrinth.com/shader/complementary-reimagined)
     Shader più o meno leggere a seconda della configurazione scelta (possibile scegliere anche uno dei tanti profili di default a seconda delle performance del proprio dispositivo).  
-    Fornisce dettagli e qualità visiva decisamente superiori alle altre shader presenti di default all'interno del modpack.
+    Fornisce dettagli e qualità visiva decisamente superiori alle altre shader presenti di default all'interno del modpack.  
+    Sono le shader attive di default.
 
     ---
     ### [Miniature Shaders](https://modrinth.com/shader/miniature-shader)
-    Shader molto leggere, ma molto belle e in perfetto stile Minecraft, già attive di default nel modpack.  
+    Shader molto leggere, ma molto belle e in perfetto stile Minecraft.  
     Per chi ha problemi di performance anche con queste è consigliato, prima di togliere del tutto le shaders, provare ad abbassare il dettaglio delle ombre.  
