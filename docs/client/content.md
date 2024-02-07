@@ -309,10 +309,6 @@
     TP esclusivo del modpack per fixare le teste di scheletro altrimenti non visibili per via di [Reimagined FA Patch](#reimagined-fa-patch).
     
     ---
-    ### [Reimagined Night Panorama]()
-    Sostituisce i soliti panorami nella schermata del menù principale di Minecraft con panorami notturni.
-    
-    ---
     ### [Torches Reimagined](https://modrinth.com/resourcepack/torches-reimagined)
     Cambia molto leggermente la texture delle torce rendendola più vibrante.
     

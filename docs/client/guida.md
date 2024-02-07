@@ -45,7 +45,6 @@
     Per misura di sicurezza, l'ordine dei texture pack è riportato di seguito dall'alto verso il basso:
 
     - Default Dark Mode
-    - Reimagined Night Panorama
     - Even Better Enchants (EBE)
     - Reimagined Fixes
     - Reimagined FA Patch
