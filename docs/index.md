@@ -3,9 +3,8 @@ Il server Sbekucraft è stato creato per essere un server dedicato per la commun
 Durante la progettazione abbiamo pensato a come accontentare sia "novizi" che "veterani" del gioco, decidendo quindi di renderlo un server Vanilla, ovvero con dell'aggiunta di contenuto extra.
 
 Il server è accessibile sia tramite Java che tramite Bedorck tramite i seguenti IP:
-
-**Java**: server.sbekucraft.it:25565
-**Bedrock**: server.sbekucraft.it:19132
+- **Java**: server.sbekucraft.it:25565
+- **Bedrock**: server.sbekucraft.it:19132
 
 # Sezioni importanti
 Prima di iniziare a giocare ti consigliamo di leggere la nostra [guida al server](guida.md), dove potrai trovare le informazioni essenziali riguardo alle mod e ai contenuti aggiuntivi.
