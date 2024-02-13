@@ -58,7 +58,7 @@ Nel server sono presenti alcune mod di quality of life:
 
 Queste mod semplificano la vita dei giocatori velocizzando alcuni processi lenti o tediosi, senza però modificare gli aspetti fondamentali del gioco.
 
-**La lista completa delle mod la puoi trovare nell'[apposita sezione](content.md).**
+**Puoi trovare la lista completa delle mod nell'[apposita sezione](content.md).**
 
 ## Compatiblità client side
 Il server offre le stesse possibilità a giocatori Bedrock e Java (Vanilla e non), tuttavia è possibile inserire compatibilità a mod client side che richiedono anche la controparte server, fin quando la mod non crea disuguaglianze e/o diminiuisce l'esperienza dei giocatori vanilla.
