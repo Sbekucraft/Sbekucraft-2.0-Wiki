@@ -1,5 +1,5 @@
 # Changelog
-In questa pagina verranno riportate le note di aggiornamento del server. 
+In questa pagina verranno riportate le note di aggiornamento del server.  
 Per restare aggiornato sulle novità iscriviti al [canale Telegram](https://t.me/sbekucraft).
 
 ## 2.0 (16/02/2024) 
