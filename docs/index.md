@@ -23,7 +23,7 @@ Infine, se stai giocando dalla versione Java puoi provare il nostro [modpack opz
 - [Whitelist](https://whitelist.sbekucraft.it)
 - [Mappa del server](https://map.sbekucraft.it)
 - [Canale Telegram](https://t.me/sbekucraft)
-- [Chat telegram](https://t.me/sbekucraftchat)
+- [Chat Telegram](https://t.me/sbekucraftchat)
 - [Modpack **Java**](https://modrinth.com/modpack/sbekucraft)
 
 ## Contatto coi moderatori
