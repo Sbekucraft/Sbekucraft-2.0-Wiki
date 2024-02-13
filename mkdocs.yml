@@ -15,6 +15,7 @@ nav:
   - 'regole.md'
   - 'guida.md'
   - 'content.md'
+  - 'changelog.md'
   - 'Client':
     - 'client/installazione.md'
     - 'client/guida.md'

@@ -7,13 +7,25 @@ Il server è accessibile sia tramite Java che tramite Bedorck tramite i seguenti
 - **Java**: server.sbekucraft.it:25565
 - **Bedrock**: server.sbekucraft.it:19132
 
-# Sezioni importanti
-Prima di iniziare a giocare ti consigliamo di leggere la nostra [guida al server](guida.md), dove potrai trovare le informazioni essenziali riguardo alle mod e ai contenuti aggiuntivi.
+**Per poter avere accesso al server devi essere aggiunto alla [whitelist](https://whitelist.sbekucraft.it), maggiori informazioni nella sezione [guida al server](guida.md).**
 
-Inoltre ti ricordiamo di leggere le [regole](regole.md) del server. Non sono difficili da seguire, l'importante è utilizare il buon senso.
+# Prima di iniziare
+Ti consigliamo di leggere la nostra [guida al server](guida.md), dove potrai trovare le informazioni essenziali riguardo al server, alla mappa, alle mod e a tutti i vari contenuti aggiuntivi. 
+
+Ti consigliamo anche di iscriverti al [canale Telegram](https://t.me/sbekucraft) dove postiamo informazioni ed aggiornamenti.
+
+Ti ricordiamo di leggere le [regole](regole.md) del server. Non sono difficili da seguire, l'importante è utilizare il buon senso.
 
 Infine, se stai giocando dalla versione Java puoi provare il nostro [modpack opzionale](client/installazione.md).
 
+# Link rapidi
+- [Whitelist](https://whitelist.sbekucraft.it)
+- [Mappa del server](https://map.sbekucraft.it)
+- [Canale Telegram](https://t.me/sbekucraft)
+- [Chat telegram](https://t.me/sbekucraftchat)
+- [Modpack **Java**](https://modrinth.com/modpack/sbekucraft)
+
 # Contatto coi moderatori
-In caso di necessità è facilmente possibile contattare i moderatori sul gruppo Telegram ufficiale, accessibile come gruppo di discussione dal [canale Telegram collegato](https://t.me/sbekucraft).  
+In caso di necessità è facilmente possibile contattare i moderatori sul [gruppo Telegram ufficiale](https://t.me/sbekucraftchat).  
 I moderatori sono facili da distinguere nel gruppo poiché sono tutti e soli quelli col titolo "Moderatore".
+Se preferisci non entrare nel gruppo puoi scrivere a [Togn3K](https://t.me/Togn3K)
