@@ -1,6 +1,6 @@
 # Guida al server
 
-Il server è basato sulla **versione di Minecraft 1.20.4** è accessibile sia tramite Java che tramite Bedorck tramite i seguenti IP:
+Il server è basato sulla **versione di Minecraft 1.20.4** è accessibile sia tramite Java che tramite Bedrock tramite i seguenti IP:
 
 - **Java**: server.sbekucraft.it:25565
 - **Bedrock**: server.sbekucraft.it:19132
