@@ -13,3 +13,7 @@ Prima di iniziare a giocare ti consigliamo di leggere la nostra [guida al server
 Inoltre ti ricordiamo di leggere le [regole](regole.md) del server. Non sono difficili da seguire, l'importante è utilizare il buon senso.
 
 Infine, se stai giocando dalla versione Java puoi provare il nostro [modpack opzionale](client/installazione.md).
+
+# Contatto coi moderatori
+In caso di necessità è facilmente possibile contattare i moderatori sul gruppo Telegram ufficiale, accessibile come gruppo di discussione dal [canale Telegram collegato](https://t.me/sbekucraft).  
+I moderatori sono facili da distinguere nel gruppo poiché sono tutti e soli quelli col titolo "Moderatore".
