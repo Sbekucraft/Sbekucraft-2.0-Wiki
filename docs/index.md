@@ -1,9 +1,9 @@
 # Homepage
-## Introduzione
+
 Il server Sbekucraft è stato creato per essere un server dedicato per la community di Sabaku no Maiku.
 Durante la progettazione abbiamo pensato a come accontentare sia "novizi" che "veterani" del gioco, decidendo quindi di renderlo un server Vanilla+, ovvero con dell'aggiunta di contenuto extra.
 
-Il server è accessibile sia tramite Java che tramite Bedorck tramite i seguenti IP:
+Il server è basato sulla **versione di Minecraft 1.20.4** è accessibile sia tramite Java che tramite Bedorck tramite i seguenti IP:
 
 - **Java**: server.sbekucraft.it:25565
 - **Bedrock**: server.sbekucraft.it:19132

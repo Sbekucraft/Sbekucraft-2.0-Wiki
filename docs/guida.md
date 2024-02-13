@@ -1,5 +1,10 @@
 # Guida al server
 
+Il server è basato sulla **versione di Minecraft 1.20.4** è accessibile sia tramite Java che tramite Bedorck tramite i seguenti IP:
+
+- **Java**: server.sbekucraft.it:25565
+- **Bedrock**: server.sbekucraft.it:19132
+
 ## Primo accesso al server 
 Per avere accesso al server è necessario **essere abbonati a Twitch (anche Prime), Patreon (qualsiasi tier) o YouTube** ed effettuare il login dal sito di [whitelist](https://whitelist.sbekucraft.it). 
 Se sei un abbonato di YouTube non è ancora presente il sistema di whitelist automatico tramite il sito, ti invitiamo a scrivere ai moderatori tramite il [gruppo Telegram](https://t.me/sbekucraftchat).
