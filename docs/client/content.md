@@ -265,7 +265,7 @@
     Rende le api più carine e piccole.
     
     ---
-    ### [Chests Reimagined]()
+    ### [Chests Reimagined](https://modrinth.com/resourcepack/chests-reimagined)
     Modifica l'aspetto delle chest e ottimizza le loro animazioni.
 
     ---
@@ -297,7 +297,7 @@
     Aggiunge un po' di variazione nelle texture dei minerali.
     
     ---
-    ### [Rails Reimagined]()
+    ### [Rails Reimagined](https://modrinth.com/resourcepack/rails-reimagined)
     Rende la texture delle rotaie tridimensionale.
     
     ---
