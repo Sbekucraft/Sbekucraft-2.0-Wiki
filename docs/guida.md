@@ -28,6 +28,15 @@ Puoi capire che strutture sono presenti nel mondo guardando la lista completa di
 Il server è aperto sia a giocatori della versione Java che a giocatori della versione bedrock grazie al plugin GeyserMC.
 Puoi capire se un giocatore sta usando la versione bedrock grazie al prefisso `.` prima del nome. Quindi `.Username`, è un username bedrock.
 Tutte le mod indicate sono installate lato server, e dunque sono automaticamente compatibili anche con i client bedrock.
+
+Se giochi da Bedrock su console (Xbox, Switch o Playstation) è necessario modificare delle impostazioni di rete per poter accedere, in quanto Microsoft di base non permette l'accesso a server minecraft non approvati.
+Trova le impostazioni di rete della console, e modifica le seguenti impostazioni:
+
+- Impostazioni DNS: Manuali
+- DNS Primario: 57.129.16.229
+- DNS Secondario: 1.1.1.1
+
+A questo punto dovresti poter vedere il server nella tua lista di server, al posto di uno dei server approvati da Microsoft.
 ## Quality of life
 Nel server sono presenti alcune mod di quality of life:
 
