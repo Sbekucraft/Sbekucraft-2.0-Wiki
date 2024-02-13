@@ -70,6 +70,7 @@ Attualmente vi è compatibilità lato server per le seguenti mod:
 
 ## Proporre nuove mod 
 Le proposte sono sempre benvenute ma ci sono alcune regole da rispettare: 
+
 - la mod deve poter funzionare solo lato server affinché sia possibile mantenere la compatibilità con Bedrock,
 - la mod non deve modificare in modo eccessivo l'esperienza di gioco, che vogliamo resti un *Vanilla+*.
 
