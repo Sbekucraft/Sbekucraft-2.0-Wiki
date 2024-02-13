@@ -1,4 +1,5 @@
-# Introduzione
+# Homepage
+## Introduzione
 Il server Sbekucraft è stato creato per essere un server dedicato per la community di Sabaku no Maiku.
 Durante la progettazione abbiamo pensato a come accontentare sia "novizi" che "veterani" del gioco, decidendo quindi di renderlo un server Vanilla+, ovvero con dell'aggiunta di contenuto extra.
 
