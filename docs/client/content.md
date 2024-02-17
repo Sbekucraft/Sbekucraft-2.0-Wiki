@@ -105,6 +105,10 @@
     Aggiunge un overlay non invasivo in alto al centro dello schermo che indica cos'è il blocco/l'entità che si sta inquadrando, l'attrezzo necessario per romperlo e raccoglierlo, e, nel caso di casse e altri blocchi con inventario, gli oggetti presenti al suo interno.
     
     ---
+    ### [Lighty](https://modrinth.com/mod/lighty)
+    Tramite F7 è possibile visualizzare un'overlay che indica il livello di luce dei blocchi circostanti.
+
+    ---
     ### [Name Pain](https://modrinth.com/mod/name-pain)
     Gradualmente colora il nome dei mob dal bianco al rosso man mano che la loro vita diminuisce.  
     Quando un mob, ostile o meno, inizia a perdere vita, il suo nome rimarrà visibile anche se non lo si inquadra direttamente.  
@@ -261,6 +265,10 @@
     Richiesta dalla mod [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next).
 
 === "Texture Pack"
+    ### [3D Default](https://modrinth.com/resourcepack/3d-default)
+    Aggiunge una leggera e piacevole tridimensionalità a molti blocchi.
+    
+    ---
     ### [Bees Reimagined](https://modrinth.com/resourcepack/bees-reimagined)
     Rende le api più carine e piccole.
     
@@ -279,10 +287,6 @@
     ---
     ### [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
     Aggiunge fantastiche animazioni uniche per ciascun mob.
-    
-    ---
-    ### [Hellim's 3D Blocks](https://modrinth.com/resourcepack/hellims-3d-blocks)
-    Aggiunge una leggera e piacevole tridimensionalità a molti blocchi.
     
     ---
     ### [Ore Glint](https://modrinth.com/resourcepack/spryzeens-ore-glint)
