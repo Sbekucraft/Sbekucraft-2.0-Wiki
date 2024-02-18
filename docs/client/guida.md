@@ -51,12 +51,11 @@
     - Fresh Animations
     - Bees Reimagined
     - Chests Reimagined
-    - Rails Reimagined
     - Torches Reimagined
     - Ore Glint Coal Addon
     - Ore Glint - Sodium
     - Ore Variants
-    - Hellim's 3D Blocks
+    - 3D Default
     - Glass Pane Culling Fix
     - Default Connected Textures
     - Eating Animation
