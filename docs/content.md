@@ -32,10 +32,6 @@
     A Google Maps-like map for your Minecraft server that can be viewed in a browser
 
     ---
-    ### [Mob Captains](https://modrinth.com/datapack/mob-captains)
-    Rare and strong mobs will spawn, dropping illegally enchanted gear.
-
-    ---
     ### [Nightworld](https://modrinth.com/mod/nightworld)
     Explore a parallel world!
 
