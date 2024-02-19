@@ -31,6 +31,7 @@ Inoltre è presente un plugin che collega Get Off My Lawn e Dynmap, dunque è po
 Il server contiene la mod [Quicksort](https://modrinth.com/mod/quicksort) che permette di creare delle chest che distribuiscono in modo automatico il loro contenuto all'interno di altre chest nei dintorni, utile per automatizzare magazzini e zone di stoccaggio. 
 
 Per utilizzarla è sufficiente:
+
 - posizionare un blocco di smeraldo,
 - creare un *quicksorter* mettendo una normale chest sopra quel blocco,
 - a questo punto gli item inseriti nel *quicksorter* verranno automaticamente distribuiti ai chest vicini che contengono gli stessi item.
