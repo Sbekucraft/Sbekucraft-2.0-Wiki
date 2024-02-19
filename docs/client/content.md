@@ -141,7 +141,7 @@
     Aggiunge una piccola barra di durata negli effetti da cui un giocatore è affetto.
     
     ---
-    ### [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap-fair)
+    ### [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
     Aggiunge una minimappa in alto a sinistra.
     
     ---
