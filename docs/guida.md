@@ -10,7 +10,7 @@ Per avere accesso al server è necessario **essere abbonati a Twitch (anche Prim
 Se sei un abbonato di YouTube non è ancora presente il sistema di whitelist automatico tramite il sito, ti invitiamo a scrivere ai moderatori tramite il [gruppo Telegram](https://t.me/sbekucraftchat).
 
 ## Mappa del server
-Tramite la mod Dynmap è possibile visualizzare tramite web una [mappa del server](https://map.sbekucraft.it) completa di tutti i chunk attualmente esplorati.
+Tramite la mod [Dynmap](https://modrinth.com/plugin/dynmap) è possibile visualizzare tramite web una [mappa del server](https://map.sbekucraft.it) completa di tutti i chunk attualmente esplorati.
 Questo perché mentre i giocatori della Java edition possono usare mod come journeymap, bluemap, etc.. per avere una mappa locale, i giocatori bedrock non possono installare mod.
 Questa mappa cerca di bilanciare la situazione.
 
@@ -27,6 +27,18 @@ Si possono aggiungere persone al claim interagendo con l'anchor del claim, ed è
 
 Inoltre è presente un plugin che collega Get Off My Lawn e Dynmap, dunque è possibile visualizzare i claim sulla mappa.
 
+## Quicksort
+Il server contiene la mod [Quicksort](https://modrinth.com/mod/quicksort) che permette di creare delle chest che distribuiscono in modo automatico il loro contenuto all'interno di altre chest nei dintorni, utile per automatizzare magazzini e zone di stoccaggio. 
+
+Per utilizzarla è sufficiente:
+- posizionare un blocco di smeraldo,
+- creare un *quicksorter* mettendo una normale chest sopra quel blocco,
+- a questo punto gli item inseriti nel *quicksorter* verranno automaticamente distribuiti ai chest vicini che contengono gli stessi item.
+
+**Nota:** nessun blocco si deve frapporre tra il *quicksorter* e le chest riceventi.
+
+![quicksort-demo2](../img/quicksort-demo2.gif)
+
 ## PvP
 Il PvP nel server è disattivato di base. Per attivarlo basta usare il comando `/pvp on`, e per disattivarlo `/pvp off`.
 Due giocatori possono entrare in combattimento quando entrambi hanno il pvp attivato e, se sono in un claim, soltanto se il claim ha l'augment del PvP control attivato.
@@ -36,7 +48,7 @@ Per incentivare l'esplorazione abbiamo aggiunto diverse strutture ognuna con i p
 Inoltre, visto il nerf dei villager della 1.20.2, i villaggi dovrebbero essere un po' più frequenti e distinti da quelli vanilla.
 Puoi capire che strutture sono presenti nel mondo guardando la lista completa di plugin, ma noi ti consigliamo di esplorare e trovarle in "blind".
 
-**Nota**: Il tetto del nether non è più raggiungibile.
+**Nota**: il tetto del nether non è più raggiungibile. Questa scelta deriva da un limite della versione Bedrock e non prenderla significava dare un vantaggio in game ai giocatori Java: *già giocano sulla versione sfigata, non inferiamo ulteriormente.*
 
 ## Cross Platform Compatibility
 Il server è aperto sia a giocatori della versione Java che a giocatori della versione bedrock grazie al plugin [GeyserMC](https://geysermc.org/).

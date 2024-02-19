@@ -66,8 +66,8 @@
     Patches the anvil to set the default level cost, material cost and percentage repaired.
 
     ---
-    ### [Dynamic Lights](https://modrinth.com/datapack/dynamic-lights/version/1.7.1+mod)
-    Supported entities and items such as torches or lanterns emit light!
+    ### [Quicksort](https://modrinth.com/mod/quicksort)
+    Lightweight item sorting. Keep your workshop organized quickly and easily.
 
 === "Amministrazione"
     ### [Anti Xray](https://modrinth.com/mod/anti-xray)
