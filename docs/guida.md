@@ -92,4 +92,4 @@ Le proposte sono sempre benvenute ma ci sono alcune regole da rispettare:
 - la mod deve poter funzionare solo lato server affinché sia possibile mantenere la compatibilità con Bedrock,
 - la mod non deve modificare in modo eccessivo l'esperienza di gioco, che vogliamo resti un *Vanilla+*.
 
-Per qualsiasi proposta ti invitiamo ad entrare nel [gruppo Telegram](https://t.me/sbekucraft) e di parlarne con i moderatori.
+Per qualsiasi proposta ti invitiamo ad entrare nel [gruppo Telegram](https://t.me/sbekucraft/40112) e di parlarne con i moderatori.
