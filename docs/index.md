@@ -13,7 +13,7 @@ Il server è basato sulla **versione di Minecraft 1.20.4** è accessibile sia tr
 ## Prima di iniziare
 Ti consigliamo di leggere la nostra [guida al server](guida.md), dove potrai trovare le informazioni essenziali riguardo al server, alla mappa, alle mod e a tutti i vari contenuti aggiuntivi. 
 
-Ti consigliamo anche di iscriverti al [canale Telegram](https://t.me/sbekucraft) dove postiamo informazioni ed aggiornamenti.
+Ti consigliamo anche di entrare nel [gruppo Telegram](https://t.me/sbekucraft) dove postiamo informazioni ed aggiornamenti nell'[apposito topic](https://t.me/sbekucraft/39812) e puoi chattare con gli altri membri della community.
 
 Ti ricordiamo di leggere le [regole](regole.md) del server. Non sono difficili da seguire, l'importante è utilizare il buon senso.
 
@@ -22,11 +22,9 @@ Infine, se stai giocando dalla versione Java puoi provare il nostro [modpack opz
 ## Link rapidi
 - [Whitelist](https://whitelist.sbekucraft.it)
 - [Mappa del server](https://map.sbekucraft.it)
-- [Canale Telegram](https://t.me/sbekucraft)
-- [Chat Telegram](https://t.me/sbekucraftchat)
+- [Gruppo Telegram](https://t.me/sbekucraft)
 - [Modpack **Java**](https://modrinth.com/modpack/sbekucraft)
 
 ## Contatto coi moderatori
-In caso di necessità è facilmente possibile contattare i moderatori sul [gruppo Telegram ufficiale](https://t.me/sbekucraftchat).  
-I moderatori sono facili da distinguere nel gruppo poiché sono tutti e soli quelli col titolo "Moderatore".
+In caso di necessità è facilmente possibile contattare i moderatori sul [gruppo Telegram ufficiale](https://t.me/sbekucraft/39818) tramite l'apposito topic per richiedere supporto tecnico.
 Se preferisci non entrare nel gruppo puoi scrivere a [Togn3K](https://t.me/Togn3K)

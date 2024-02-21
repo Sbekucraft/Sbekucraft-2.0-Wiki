@@ -4,12 +4,12 @@
 Lo scopo del server è quello di creare un ambiente positivo in cui i giocatori possano divertirsi e condividere momenti insieme per cui le regole in elenco non si devono considerare come "strette" ma piuttosto delle linee guida flessibili per la community. 
 Trattandosi di un server ad accesso ristretto non ci aspettiamo troppi atteggiamenti problematici, tuttavia in caso di abusi delle regole lo staff valuterà caso per caso la punizione.
 
-I moderatori stessi si impegnano al rispetto del regolamento, come è naturale che sia. Nell'applicazione vi sarà sempre una dose di discrezionalità poichè si andrà a valutare il contesto ed eventuali pregresse violazioni, pertanto, per qualsiasi dubbio o problematica, non esitate a contattarli tramite i contatti del [gruppo Telegram](https://t.me/sbekucraftchat).
+I moderatori stessi si impegnano al rispetto del regolamento, come è naturale che sia. Nell'applicazione vi sarà sempre una dose di discrezionalità poichè si andrà a valutare il contesto ed eventuali pregresse violazioni, pertanto, per qualsiasi dubbio o problematica, non esitate a contattarli tramite i contatti del [gruppo Telegram](https://t.me/sbekucraft/39818).
 
 ## Requisiti di accesso
 L'accesso è server è ristretto alla community di Sabaku No Maiku, dunque è necessario essere Patreon (qualsiasi tier) o sub su Twitch (anche Prime) ed iscriversi alla whitelist tramite [https://whitelist.sbekucraft.it](https://whitelist.sbekucraft.it).
 
-Al momento sei un **abbonato di YouTube** hai diritto all'accesso al server ma non è presente il sistema automatico di whitelist nel sito, ti invitiamo a scriverci sul [gruppo Telegram](https://t.me/sbekucraftchat) o di contattare [Togn3K](https://t.me/Togn3K). Ti invitiamo a fare la stessa cosa se hai problemi di qualsiasi tipo con il sito di whitelist.
+Al momento sei un **abbonato di YouTube** hai diritto all'accesso al server ma non è presente il sistema automatico di whitelist nel sito, ti invitiamo a scriverci sul [gruppo Telegram](https://t.me/sbekucraft/39818) o di contattare [Togn3K](https://t.me/Togn3K). Ti invitiamo a fare la stessa cosa se hai problemi di qualsiasi tipo con il sito di whitelist.
 
 ## Termini di utilizzo
 Giocando sul server, partecipando attivamente alle discussioni sui canali ufficiali ed interagendo con la community, il giocatore accetta automaticamente le regole imposte dallo staff.

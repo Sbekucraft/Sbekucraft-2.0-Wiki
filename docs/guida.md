@@ -7,7 +7,7 @@ Il server è basato sulla **versione di Minecraft 1.20.4** è accessibile sia tr
 
 ## Primo accesso al server 
 Per avere accesso al server è necessario **essere abbonati a Twitch (anche Prime), Patreon (qualsiasi tier) o YouTube** ed effettuare il login dal sito di [whitelist](https://whitelist.sbekucraft.it). 
-Se sei un abbonato di YouTube non è ancora presente il sistema di whitelist automatico tramite il sito, ti invitiamo a scrivere ai moderatori tramite il [gruppo Telegram](https://t.me/sbekucraftchat).
+Se sei un abbonato di YouTube non è ancora presente il sistema di whitelist automatico tramite il sito, ti invitiamo a scrivere ai moderatori tramite il [gruppo Telegram](https://t.me/sbekucraft).
 
 ## Mappa del server
 Tramite la mod [Dynmap](https://modrinth.com/plugin/dynmap) è possibile visualizzare tramite web una [mappa del server](https://map.sbekucraft.it) completa di tutti i chunk attualmente esplorati.
@@ -60,8 +60,8 @@ Tutte le mod indicate sono installate lato server, e dunque sono automaticamente
 Trova le impostazioni di rete della console, e modifica le seguenti impostazioni:
 
 - Impostazioni DNS: Manuali
-- DNS Primario: 57.129.16.229
-- DNS Secondario: 1.1.1.1
+- DNS Primario: `57.129.16.229`
+- DNS Secondario: `1.1.1.1`
 
 A questo punto dovresti poter vedere il server nella tua lista di server, al posto di uno dei server approvati da Microsoft.
 
@@ -92,4 +92,4 @@ Le proposte sono sempre benvenute ma ci sono alcune regole da rispettare:
 - la mod deve poter funzionare solo lato server affinché sia possibile mantenere la compatibilità con Bedrock,
 - la mod non deve modificare in modo eccessivo l'esperienza di gioco, che vogliamo resti un *Vanilla+*.
 
-Per qualsiasi proposta ti invitiamo ad entrare nel [gruppo Telegram](https://t.me/sbekucraftchat) e di parlarne con i moderatori.
+Per qualsiasi proposta ti invitiamo ad entrare nel [gruppo Telegram](https://t.me/sbekucraft) e di parlarne con i moderatori.
