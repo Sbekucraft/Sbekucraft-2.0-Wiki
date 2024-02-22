@@ -28,8 +28,8 @@
     A server side Fabric mod that fixes the fog when having a higher render distance on the client than on the server
 
     ---
-    ### [Dynmap](https://modrinth.com/plugin/dynmap)
-    A Google Maps-like map for your Minecraft server that can be viewed in a browser
+    ### [pl3xmap](https://modrinth.com/plugin/pl3xmap)
+    Pl3xMap is the original minimalistic and lightweight world map viewer for Minecraft servers using the vanilla Minecraft rendering style.
 
     ---
     ### [Nightworld](https://modrinth.com/mod/nightworld)
