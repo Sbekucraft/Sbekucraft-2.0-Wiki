@@ -10,14 +10,13 @@ Per avere accesso al server è necessario **essere abbonati a Twitch (anche Prim
 Se sei un abbonato di YouTube non è ancora presente il sistema di whitelist automatico tramite il sito, ti invitiamo a scrivere ai moderatori tramite il [gruppo Telegram](https://t.me/sbekucraft).
 
 ## Mappa del server
-Tramite la mod [Dynmap](https://modrinth.com/plugin/dynmap) è possibile visualizzare tramite web una [mappa del server](https://map.sbekucraft.it) completa di tutti i chunk attualmente esplorati.
+Tramite la mod [pl3xmap](https://modrinth.com/plugin/pl3xmap) è possibile visualizzare tramite web una [mappa del server](https://map.sbekucraft.it) completa di tutti i chunk attualmente esplorati.
 Questo perché mentre i giocatori della Java edition possono usare mod come journeymap, bluemap, etc.. per avere una mappa locale, i giocatori bedrock non possono installare mod.
 Questa mappa cerca di bilanciare la situazione.
 
-Di default la mappa mostra la posizione degli altri giocatori nella mappa, ma è possibile utilizzare il comando `/dynmap hide` per nascondersi, e `/dynmap show` per essere nuovamente visibili.
+Di default la mappa mostra la posizione degli altri giocatori nella mappa, ma è possibile utilizzare il comando `/map hide` per nascondersi, e `/map show` per essere nuovamente visibili.
 
-Inoltre è possibile creare dei marker personalizzati sulla mappa tramite dei normali cartelli.
-Per farlo, la prima riga deve contenere: *[dynmap]*, la seconda il nome del marker e la terza *icon:icona*. Si può trovare l'elenco delle icone disponibili [qua](https://camo.githubusercontent.com/29c0ba4976a7db3d89d141ab38fd0dcb6126e994fd9d43d2e6341010b89679c6/687474703a2f2f6d696b657072696d6d2e636f6d2f696d616765732f4d61726b6572732e706e67).
+**Nota:** al momento è stata rimossa l'integrazione con GOML che permetteva di visualizzare i claim sulla mappa e la possibilità di creare marker sulla mappa tramite il posizionamento di cartelli, queste funzionalità verranno reintrodotte il prima possbile!
 
 ## Claim
 Il server contiene la mod [Get Off My Lawn](https://github.com/Patbox/get-off-my-lawn-reserved) per gestire i claim.
