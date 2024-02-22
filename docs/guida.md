@@ -24,8 +24,6 @@ Questa mod unisce funzionalità e gameplay, in quanto per aumentare l'area del t
 Puoi trovare un ricettario della mod in [questa](https://github.com/Patbox/get-off-my-lawn-reserved/blob/1.19.4/recipes.md) pagina.
 Si possono aggiungere persone al claim interagendo con l'anchor del claim, ed è anche possibile attivare il pvp.
 
-Inoltre è presente un plugin che collega Get Off My Lawn e Dynmap, dunque è possibile visualizzare i claim sulla mappa.
-
 ## Quicksort
 Il server contiene la mod [Quicksort](https://modrinth.com/mod/quicksort) che permette di creare delle chest che distribuiscono in modo automatico il loro contenuto all'interno di altre chest nei dintorni, utile per automatizzare magazzini e zone di stoccaggio. 
 

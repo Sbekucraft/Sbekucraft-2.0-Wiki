@@ -3,7 +3,7 @@ In questa pagina verranno riportate le note di aggiornamento del server.
 Per restare aggiornato sulle novità segui l'[apposito topic nel gruppo Telegram](https://t.me/sbekucraft/39812).
 
 ## 2.0.2 (22/02/2024)
-- Sostituita mod della mappa con [pl3xmap](https://modrinth.com/plugin/pl3xmap) che offre migliori perfomance
+- Sostituita DynMap con [pl3xmap](https://modrinth.com/plugin/pl3xmap) che offre migliori perfomance
 - Rimosse **temporaneamente** la visualizzazione dei claim e dei marker nella mappa (dobbiamo rifare l'integrazione)
 
 ## 2.0.1 (19/02/2024)
