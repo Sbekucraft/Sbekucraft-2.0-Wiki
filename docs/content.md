@@ -13,15 +13,11 @@
 
     ---
     ### [YUNG's Suite](https://modrinth.com/user/YUNGNICKYOUNG)
-    Suite of mods from YUNG's suites. Includes: Better Dungeons, Better Desert Temples, Better End Islands, Better Jungle Temples, Better Nether Fortresses, Better Ocean Monuments, Better Strongholds, Better Mineshafts, Better witch Huts and YUNG's Extras. | **NB:** Works after Crystal_Spider_'s fixes.
+    Suite of mods from YUNG's suites. Includes: Better Dungeons, Better Desert Temples, Better End Islands, Better Jungle Temples, Better Nether Fortresses, Better Ocean Monuments, Better Strongholds, Better Mineshafts, Better witch Huts and YUNG's Extras.
 
     ---
-    ### [Incendium](https://modrinth.com/mod/incendium)
-    Incendium is a datapack that completely revamps the nether, way more than what Minecraft did in the 1.16 Nether Update.
-
-    ---
-    ### [Inaccessible Nether Roof](https://modrinth.com/datapack/inaccessible-nether-roof)
-    Prevents players from accessing the nether roof
+    ### [Amplified Nether](https://modrinth.com/mod/amplified-nether)
+    Amplified Nether increases the Nether height to 256 blocks tall, truly ushering in the "Amplified" feel.
 
 === "Avventura"
     ### [View Distance Fix](https://modrinth.com/mod/view-distance-fix)
@@ -104,6 +100,10 @@
     ---
     ### [FerriteCore](https://modrinth.com/mod/ferrite-core)
     A mod that reduces the memory usage of Minecraft in a few different ways.
+
+    ---
+    ### [Servercore](https://modrinth.com/mod/servercore)
+    A mod that aims to optimize the minecraft server.
 
     ---
     ### [Krypton](https://modrinth.com/mod/krypton)
