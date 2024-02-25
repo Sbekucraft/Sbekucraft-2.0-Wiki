@@ -149,6 +149,10 @@
     Aggiunge una mappa a schermo intero del mondo esplorato consultabile tramite pressione del tasto M.
 
 === "Mod di ottimizzazione"
+    ### [BadOptimizations](https://modrinth.com/mod/badoptimizations)
+    Un insieme di semplici, ma efficaci, ottimizzazioni.
+    
+    ---
     ### [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
     Riduce automaticamente gli FPS quando la finestra di Minecraft perde il focus (a 1 FPS) o viene minimizzata (0 FPS).
     
@@ -191,6 +195,10 @@
     ---
     ### [Sodium Extra](https://modrinth.com/mod/sodium-extra)
     Addon per [Sodium](#sodium) che aggiunge bugfix e più opzioni nel menù delle impostazioni grafiche.
+
+    ---
+    ### [ThreadTweak](https://modrinth.com/mod/threadtweak)
+    Migliora lo scheduling della CPU per Minecraft.
 
 === "Mod API"
     ### [Architectury API](https://modrinth.com/mod/architectury-api)
