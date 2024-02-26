@@ -22,6 +22,10 @@
     ![protection](../img/protection.png)  
     Visualizzazione di assorbimento e resistenza:  
     ![saturation and resistance](../img/saturation-resistance.png)
+
+    ---
+    ### [Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)
+    Visualizzazione della tipologia di armatura, assieme a effetti per il recupero della durabilità con ripristino, per spine, per i diversi tipi di protezione, e altro ancora!
     
     ---
     ### [Better Mount HUD](https://modrinth.com/mod/better-mount-hud)
@@ -31,6 +35,10 @@
     ---
     ### [BetterF3](https://modrinth.com/mod/betterf3)
     Migliora l'aspetto e le informazioni mostrate dal menù apribile con F3.
+
+    ---
+    ### [Blur](https://modrinth.com/mod/blur-fabric)
+    Aggiunge un leggero blur dietro la GUI.
 
     ---
     ### [Bobby](https://modrinth.com/mod/bobby)
