@@ -34,7 +34,6 @@
 === "Quality of Life"
     ### [Harvest with ease](https://modrinth.com/mod/harvest-with-ease)
     Don't break crops, right click them!
-    NB: Compatible by changing the metadata
 
     ---
     ### [PvP Control](https://modrinth.com/mod/pvpcontrol)
