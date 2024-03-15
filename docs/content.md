@@ -23,6 +23,10 @@
     ### [Harbor](https://www.spigotmc.org/resources/harbor-a-sleep-enhancement-plugin.60088/)
     Ahoy, matey! Harbor is a Spigot plugin that redefines how sleep works in your server, making it easier for all the online players to get in bed quick and skip through the night!
 
+    ---
+    ### [Dynamic Lights](https://www.spigotmc.org/resources/dynamiclights.110707/)
+    Emit Light from Held Items using the 1.17 Light Blocks in Spigot/Paper Servers.
+
 === "Quality of Life"
     ### [Vane](https://oddlama.github.io/vane/)
     Better Harvesting, Unlock All Recipes, Anvil Cost limiter, Double Doors, Grass Path.
@@ -58,6 +62,10 @@
     ---
     ### [LandClaim](https://www.spigotmc.org/resources/landclaim.69666/)
     LandClaim is a land protection tool that allows players to safely claim WorldGuard regions and plots using money. 
+
+=== "Ottimizzazione"
+    ### [OkTreasures](https://hangar.papermc.io/Kyle/OkTreasures)
+    Vanilla Minecraft has a bug where the buried treasure search is so slow that it can sometimes freeze your game. It also happens in multiplayer, if anyone opens a buried treasure search, the server can sometimes crash. Contrary to what the bug tracker says, as of Minecraft 1.20.1, this is not fixed.
 
 === "Compatibilità client-mod"
     ### [AppleSkin](https://modrinth.com/mod/appleskin)

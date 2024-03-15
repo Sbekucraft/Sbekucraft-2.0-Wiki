@@ -2,6 +2,13 @@
 In questa pagina verranno riportate le note di aggiornamento del server.  
 Per restare aggiornato sulle novità segui l'[apposito topic nel gruppo Telegram](https://t.me/sbekucraft/39812).
 
+## 2.1 (17/03/2024)
+- Migrato il server da Fabric a Paper.
+- Rework totale di tutte le componenti del server, tra cui claim, cheat prevention e quality of life.
+- Rimosse le mod di worldgen di YUNG e CTOV.
+- Aggiunta la *lore*, la valuta di scambio del server.
+- Disabilitato lo spawn dei Phantom.
+
 ## 2.0.2 (22/02/2024)
 - Sostituita DynMap con [pl3xmap](https://modrinth.com/plugin/pl3xmap) che offre migliori perfomance
 - Rimosse **temporaneamente** la visualizzazione dei claim e dei marker nella mappa (dobbiamo rifare l'integrazione)
