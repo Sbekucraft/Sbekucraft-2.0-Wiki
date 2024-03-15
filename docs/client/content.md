@@ -22,6 +22,10 @@
     ![protection](../img/protection.png)  
     Visualizzazione di assorbimento e resistenza:  
     ![saturation and resistance](../img/saturation-resistance.png)
+
+    ---
+    ### [Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)
+    Visualizzazione della tipologia di armatura, assieme a effetti per il recupero della durabilità con ripristino, per spine, per i diversi tipi di protezione, e altro ancora!
     
     ---
     ### [Better Mount HUD](https://modrinth.com/mod/better-mount-hud)
@@ -31,6 +35,10 @@
     ---
     ### [BetterF3](https://modrinth.com/mod/betterf3)
     Migliora l'aspetto e le informazioni mostrate dal menù apribile con F3.
+
+    ---
+    ### [Blur](https://modrinth.com/mod/blur-fabric)
+    Aggiunge un leggero blur dietro la GUI.
 
     ---
     ### [Bobby](https://modrinth.com/mod/bobby)
@@ -149,6 +157,10 @@
     Aggiunge una mappa a schermo intero del mondo esplorato consultabile tramite pressione del tasto M.
 
 === "Mod di ottimizzazione"
+    ### [BadOptimizations](https://modrinth.com/mod/badoptimizations)
+    Un insieme di semplici, ma efficaci, ottimizzazioni.
+    
+    ---
     ### [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
     Riduce automaticamente gli FPS quando la finestra di Minecraft perde il focus (a 1 FPS) o viene minimizzata (0 FPS).
     
@@ -191,6 +203,10 @@
     ---
     ### [Sodium Extra](https://modrinth.com/mod/sodium-extra)
     Addon per [Sodium](#sodium) che aggiunge bugfix e più opzioni nel menù delle impostazioni grafiche.
+
+    ---
+    ### [ThreadTweak](https://modrinth.com/mod/threadtweak)
+    Migliora lo scheduling della CPU per Minecraft.
 
 === "Mod API"
     ### [Architectury API](https://modrinth.com/mod/architectury-api)
