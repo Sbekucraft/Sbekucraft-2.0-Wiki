@@ -19,11 +19,12 @@ Lo staff si riserva il diritto di punire chi non segue le regole silenziando, ki
 1. Sono vietati tutti i comportamenti riconducibili a discriminazioni di qualunque tipo, con particolare menzione alla discriminazione di razza, genere, sessualità, religione e tutte le forme di persecuzione, molestia o atteggiamenti tossici nei confronti della community ed altri giocatori.
 2. Nel rispetto degli altri giocatori, è vietato usare bestemmie e slurring in chat globale.
 3. È vietata la promozione o distribuzione di materiale o ideologie estremiste o nocive.
-4. È vietato l'uso di xray, client modificati e bot ai fini di ottenere risorse preziose che diano un vantaggio competitivo rispetto agli altri giocatori.
-5. È vietata la realizzazione di strutture che danneggiano le performance del server quali lag machine o abuso di vulnerabilità note nei plugin del server.
-6. Comportamenti che vietano i termini di servizio e le regole generali di Minecraft possono portare a ban immediati.
-7. Non costituirà scusante, in caso di violazione, la mancata conoscenza del regolamento. Inoltre, sarà a discrzione dei moderatori intervenire in caso di elusione dello stesso.
-8. Se avete dubbi su un determinato atteggiamento, contattate lo staff e/o usate il buon senso e il rispetto reciproco.
+4. È vietato l'uso di account secondari ai fini di ottenere più risorse del dovuto, per via di glitch, bug o carenze di bilanciamento.
+5. È vietato l'uso di xray, client modificati e bot ai fini di ottenere risorse preziose che diano un vantaggio competitivo rispetto agli altri giocatori.
+6. È vietata la realizzazione di strutture che danneggiano le performance del server quali lag machine o abuso di vulnerabilità note nei plugin del server.
+7. Comportamenti che vietano i termini di servizio e le regole generali di Minecraft possono portare a ban immediati.
+8. Non costituirà scusante, in caso di violazione, la mancata conoscenza del regolamento. Inoltre, sarà a discrzione dei moderatori intervenire in caso di elusione dello stesso.
+9. Se avete dubbi su un determinato atteggiamento, contattate lo staff e/o usate il buon senso e il rispetto reciproco.
 
 ## Regole di moderazione
 1. Lo staff del server si impegna per non abusare dei propri poteri e delle proprie relazioni per garantire vantaggi sleali a sé stessi o altri giocatori. 
