@@ -17,9 +17,9 @@ Questa mappa cerca di bilanciare la situazione.
 Di default la mappa mostra la posizione degli altri giocatori nella mappa, ma è possibile utilizzare il comando `/map hide` per nascondersi, e `/map show` per essere nuovamente visibili.
 
 ## Economia
-Con il passaggio a paper, nel server è stato introdotto il framework economico [xConomy](https://www.spigotmc.org/resources/xconomy.75669/) che introduce una valuta, la *Lore* (al plurale sempre *Lore*). Questa valuta cerca di standardizzare le transazioni tra giocatori e dare un senso di progressione ai claim. In futuro, questa valuta sarà integrata con funzionalità aggiuntive che permetteranno di comprare funzionalità di "flavour" che non vanno ad intaccare gli equilibri di gioco.
+Con il passaggio a paper, nel server è stato introdotto il framework economico [xConomy](https://www.spigotmc.org/resources/xconomy.75669/) che introduce due valute, la *Lore* (al plurale sempre *Lore*) e lo *sbeuro* (al plurale *sbeuri*). Queste valute cercano di standardizzare le transazioni tra giocatori e dare un senso di progressione ai claim. La valuta principale è la lore, per cui le transazioni con il server dovranno essere effettuate in lore, mentre per le transazioni tra giocatori sarà possibile usare qualunque valuta si voglia.
 
-I comandi principali da conoscere sono `/balance` per controllare il proprio bilancio e `/pay <giocatore> <quantità>` per inviare soldi ad un altro giocatore.
+I comandi principali da conoscere sono `/lore` per controllare il proprio bilancio in lore e `/lore send <utente>` per inviare soldi ad un altro utente. Questi comandi esistono anche per gli sbeuri, con il corrispettivo `/sbeuro`. Inoltre per cambiare soldi da lore a sbeuri basta usare `/lore exchange sbeuro <quantità>`, viceversa per cambiare da sbeuri a lore, ricordando che i tassi di cambio sono di 20 sbeuri = 1 lore.
 
 Ogni 24 ore verranno accreditati a tutti i giocatori registrati 400 lore fino ad un tetto massimo di 250k lore, indipendentemente dall'attività sul server.
 
