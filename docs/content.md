@@ -51,9 +51,8 @@
     ### [Vault](https://www.spigotmc.org/resources/vault.34315/)
     Vault is a Permissions, Chat, & Economy API to give plugins easy hooks into these systems without needing to hook or depend on each individual plugin themselves. It was born out of a distaste for how both Register and the current Permissions API are run, and their lack of features or over-complicated implementations. Vault attempts to solve these issues by being intuitive and providing plugins with support for any system that they may use.
 
-    ### [xConomy](https://www.spigotmc.org/resources/xconomy.75669/)
-    The basic economy plugin, supports other plugins that use the Vault API.
-    Supporting MySQL to save player data, and synchronize data between Bungeecord servers or via Redis.
+    ### [CoinsEngine](https://www.spigotmc.org/resources/coinsengine-economy-and-virtual-currencies.84121/)
+    CoinsEngine is a simple plugin that allows you to create unlimited amount of custom virtual currencies or even use it as primary economy plugin!
 
     ---
     ### [Ray Tracing Anti X-Ray](https://github.com/stonar96/RayTraceAntiXray)
