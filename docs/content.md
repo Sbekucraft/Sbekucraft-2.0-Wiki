@@ -27,6 +27,14 @@
     ### [Dynamic Lights](https://www.spigotmc.org/resources/dynamiclights.110707/)
     Emit Light from Held Items using the 1.17 Light Blocks in Spigot/Paper Servers.
 
+    ---
+    ### [Excellent Jobs](https://www.spigotmc.org/resources/excellentjobs-%E2%9A%A1-better-jobs-system.114783/)
+    A better, lightweight and flexible jobs solution for your server! Features full customization and unique features!
+
+    ---
+    ### [ImageFrame](https://www.spigotmc.org/resources/imageframe-load-images-on-maps-item-frames-support-gifs-map-markers-survival-friendly.106031/)
+    Want to display information on your server in a fancy way? Or maybe you want to display a nice animated TV screen in your home base? Then this is the plugin for you!
+
 === "Quality of Life"
     ### [Vane](https://oddlama.github.io/vane/)
     Better Harvesting, Unlock All Recipes, Anvil Cost limiter, Double Doors, Grass Path.
@@ -42,6 +50,10 @@
 === "Amministrazione"
     ### [Luckperms](https://modrinth.com/mod/luckperms)
     LuckPerms is a permissions plugin for Minecraft servers. It allows server admins to control what features players can use by creating groups and assigning permissions.
+
+    ---
+    ### [Commands Manager](https://www.spigotmc.org/resources/commandsmanager-1-8-1-20-mysql.111108/)
+    CommandsManager is a plugin that allows you to Block, Add a Cooldown and Add a Delay and Cost to any Command.​
     
     ---
     ### [Spark](https://modrinth.com/mod/spark)
@@ -82,6 +94,9 @@
     ### [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
     ProtocolLib is a library that allows read and write access to the Minecraft protocol. It handles most of the overhead required with reflection and channel injection and provides wrappers to simplify packet modification. It is updated with most Minecraft updates so, ideally, individual plugins don't have to. ProtocolLib often doesn't need to be updated for minor updates, especially if there are few code changes (i.e. the 1.8 security updates)
 
+    ---
+    ### [Nightcore](https://github.com/nulli0n/nightcore-spigot)
+    nightcore is updated version of the NexEngine utility plugin. Changes are unnoticeable for regular users. Almost all plugin's data is compatible, except Text Formations.
 
     ---
     ### [Placeholder API](https://www.spigotmc.org/resources/placeholderapi.6245/)

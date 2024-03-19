@@ -23,6 +23,13 @@ I comandi principali da conoscere sono `/lore` per controllare il proprio bilanc
 
 Ogni 24 ore verranno accreditati a tutti i giocatori registrati 400 lore fino ad un tetto massimo di 250k lore, indipendentemente dall'attività sul server.
 
+### Skill Passive
+Per permettere agli utenti passivi di guadagnare più soldi ed avere un'esperienza più dinamica, abbiamo introdotto un sistema di skill passive, ognuna con il proprio livello, obbiettivi e reward.
+
+Ai giocatori verrà attribito un reward in sbeuri ogni volta che avviene un level-up ed ogni volta che viene completato un obbiettivo.
+
+Attualmente le skill disponibili sono **caccia**, **estrazione** e **coltivazione**.
+
 ## Claim
 In seguito al rework del server, per creare dei claim è necessario disporre di una certa quantità di Lore.
 Il costo dell'area è di 1.5 lore per blocco, e quando proverai a claimare un'area che non puoi permetterti verrà esplicitata la quantità di lore necessaria.
@@ -36,6 +43,13 @@ L'area claimata non è necessariamente quadrata, è possibile claimare un'area r
 ## PvP
 Il PvP nel server è disattivato di base. Per attivarlo basta usare il comando `/pvp on`, e per disattivarlo `/pvp off`.
 Due giocatori possono entrare in combattimento quando entrambi hanno il pvp attivato e, se sono in un claim, soltanto se il claim ha il pvp attivo.
+
+## Funzionalità aggiuntive
+Alcune funzionalità aggiuntive, esterne all'esperienza vanilla, si interfacciano con il sistema economico, e vengono considerate come "sfizi" per i giocatori più ricchi. Queste includono:
+
+- ImageFrame, importa delle immagini nella tua base. Questa funzionalità è disponibile tramite il comando `/imageframe <nome immagine> <link> <larghezza> <altezza> combined`. Questo comando spawnerà una mappa nell'inventario del giocatore, e cliccando nell'angolo in alto a sinistra dei frame, questi verranno automaticamente riempiti. Larghezza ed altezza, si riferiscono al numero di frame da riempire.
+
+NB: Nel caso in cui venga utilizzata una sinstassi incorretta nel comando, per limitazioni di integrazione non è possibile stornarne il costo. Assicurati di utilizzare la sintassi corretta.
 
 ## Cross Platform Compatibility
 Il server è aperto sia a giocatori della versione Java che a giocatori della versione bedrock grazie al plugin [GeyserMC](https://geysermc.org/).
