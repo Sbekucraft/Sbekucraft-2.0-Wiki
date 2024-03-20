@@ -15,6 +15,14 @@
     ### [Amplified Nether](https://modrinth.com/mod/amplified-nether)
     Amplified Nether increases the Nether height to 256 blocks tall, truly ushering in the "Amplified" feel.
 
+    ---
+    ### [Camps, Castles and Carriages](https://modrinth.com/datapack/camps_castles_carriages)
+    Add more medieval-fairy-tale style structures to your vanilla world!
+
+    ---
+    ### [Structory](https://www.curseforge.com/minecraft/mc-mods/structory)
+    Structory is a seasonally updated, atmospheric structure mod with light lore.
+
 === "Gameplay"
     ### [pl3xmap](https://modrinth.com/plugin/pl3xmap)
     Pl3xMap is the original minimalistic and lightweight world map viewer for Minecraft servers using the vanilla Minecraft rendering style.
