@@ -5,7 +5,7 @@ Per restare aggiornato sulle novità segui l'[apposito topic nel gruppo Telegram
 ## 2.1 (20/03/2024)
 - [INFO] Migrato il server da Fabric a Paper.
 - [INFO] Rework totale di tutte le componenti del server, tra cui claim, cheat prevention e quality of life.
-- [WORLDGEN] Rimosse le mod di worldgen di YUNG e CTOV.
+- [WORLDGEN] Rimosse le mod di worldgen di YUNG e CTOV a favore di Structory e Camps, Castles and Carriages.
 - [ECONOMIA] Aggiunti *lore* e *sbeuri*, le valute di scambio del server.
 - [ECONOMIA] Aggiunte le skill *estrazione*, *caccia* e *coltivazione*.
 - [ECONOMIA] Aggiunta la possibilità di inserire immagini custom nel server.
