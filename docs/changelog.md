@@ -3,7 +3,10 @@ In questa pagina verranno riportate le note di aggiornamento del server.
 Per restare aggiornato sulle novità segui l'[apposito topic nel gruppo Telegram](https://t.me/sbekucraft/39812).
 
 ## **2.1** <span style="color: #8B8C9A">- 25 Marzo, 2024</span>
-Dopo un mese di lavoro siamo riusciti a portarvi la versione 2.1, completamente ricreata da zero dopo il passaggio da Fabric a Paper. In questa versione vi è un rework totale di quasi tutte le componenti già esistendi del server. Abbiamo un nuovo sistema di claim, e abbiamo riportate delle quality of life dal vecchio server.
+Dopo un mese di lavoro siamo riusciti a portarvi la versione 2.1, completamente ricreata da zero dopo il passaggio da Fabric a Paper. In questa versione vi è un rework totale di quasi tutte le componenti già esistendi del server. Abbiamo un nuovo sistema di claim, e abbiamo riportato delle quality of life dal vecchio server.
+
+Sebbene ci siano stati cambiamenti in quasi tutti i componenti, qui sono elencati i cambiamenti principali lato utente dalla 2.0.2.
+
 ### Generazione del mondo
 - Rimosse le mod di worldgen di YUNG e CTOV a favore di *Structory* e *Camps, Castles and Carriages*.
 - La maggior parte dei chunk della mappa sono stati resettati per rigenerare dei dungeon rotti, saltando selettivamente soltanto le aree in prossimità delle basi dei giocatori.
