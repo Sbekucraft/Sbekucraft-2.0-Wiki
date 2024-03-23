@@ -68,19 +68,21 @@
     A performance profiler mod. 
 
     ---
-    ### [Vault](https://www.spigotmc.org/resources/vault.34315/)
-    Vault is a Permissions, Chat, & Economy API to give plugins easy hooks into these systems without needing to hook or depend on each individual plugin themselves. It was born out of a distaste for how both Register and the current Permissions API are run, and their lack of features or over-complicated implementations. Vault attempts to solve these issues by being intuitive and providing plugins with support for any system that they may use.
-
-    ### [CoinsEngine](https://www.spigotmc.org/resources/coinsengine-economy-and-virtual-currencies.84121/)
-    CoinsEngine is a simple plugin that allows you to create unlimited amount of custom virtual currencies or even use it as primary economy plugin!
-
-    ---
     ### [Ray Tracing Anti X-Ray](https://github.com/stonar96/RayTraceAntiXray)
     Paper Anti-Xray can't hide ores that are exposed to air in caves for example (see picture below). This plugin is an add-on for Paper Anti-Xray to hide those ores too, using ray tracing to calculate whether or not those ores are visible to players.
 
     ---
     ### [LandClaim](https://www.spigotmc.org/resources/landclaim.69666/)
     LandClaim is a land protection tool that allows players to safely claim WorldGuard regions and plots using money. 
+
+=== "Social"
+    ### [CoinsEngine](https://www.spigotmc.org/resources/coinsengine-economy-and-virtual-currencies.84121/)
+    CoinsEngine is a simple plugin that allows you to create unlimited amount of custom virtual currencies or even use it as primary economy plugin!
+
+    ---
+    ### [OpenAudioMC](https://openaudiomc.net)
+    Allow community members to interact with others using spatial proximity voice chat.
+
 
 === "Ottimizzazione"
     ### [OkTreasures](https://hangar.papermc.io/Kyle/OkTreasures)
@@ -113,6 +115,10 @@
     ---
     ### [PAPI Proxy Bridge](https://modrinth.com/plugin/papiproxybridge)
     A bridge library plugin for using PlaceholderAPI on proxy servers
+
+    ---
+    ### [Vault](https://www.spigotmc.org/resources/vault.34315/)
+    Vault is a Permissions, Chat, & Economy API to give plugins easy hooks into these systems without needing to hook or depend on each individual plugin themselves. It was born out of a distaste for how both Register and the current Permissions API are run, and their lack of features or over-complicated implementations. Vault attempts to solve these issues by being intuitive and providing plugins with support for any system that they may use.
 
 === "Plugin per Velocity"
     ### [Geyser](https://geysermc.org)

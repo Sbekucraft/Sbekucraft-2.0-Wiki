@@ -23,7 +23,7 @@ I comandi principali da conoscere sono `/lore` per controllare il proprio bilanc
 
 Ogni 24 ore verranno accreditati a tutti i giocatori registrati 400 lore fino ad un tetto massimo di 250k lore, indipendentemente dall'attività sul server.
 
-### Skill Passive
+## Skill Passive
 Per permettere agli utenti passivi di guadagnare più soldi ed avere un'esperienza più dinamica, abbiamo introdotto un sistema di skill passive, ognuna con il proprio livello, obbiettivi e reward.
 
 Ai giocatori verrà attribito un reward in sbeuri ogni volta che avviene un level-up ed ogni volta che viene completato un obbiettivo.
@@ -79,6 +79,21 @@ Nel server sono presenti alcune funzionalità di quality of life:
 Queste mod semplificano la vita dei giocatori velocizzando alcuni processi lenti o tediosi, senza però modificare gli aspetti fondamentali del gioco.
 
 **Puoi trovare la lista completa dei plugin nell'[apposita sezione](content.md).**
+
+## Chat Vocale di Prossimità
+La chat vocale è compatibile sia con client java che con client bedrock che usa una pagina web per creare un canale di comunicazione esterno tra giocatori. Questi sono i passaggi per accedervi:
+
+- Per la versione **Java**, una volta entrato in partita riceverai un messaggio che ti chiede di "Cliccare qui" per abilitare la chat vocale; cliccando sul messaggio verrai indirizzato verso una pagina web in cui dovrai dare accesso al microfono, ed automaticamente verrai connesso alla chat vocale.
+- Per la versione **Bedrock**, ti verrà inviato lo stesso messaggio, ma non potendo cliccare sui messaggi è necessario navigare manualmente su [session.openaudiomc.net](https://session.openaudiomc.net), e cliccare sul pulsante *continue to bedrock login* e dare i permessi al browser; dunque, la pagina ti mostrerà un codice (token) da inserire ingame con il comando `/audio <codice>`. A quel punto il procedimento continuerà come per java e verrai connesso alla chat vocale.
+
+Una delle funzionalità della chat vocale è quella di creare dei canali di comunicazione privati (accesso su invito) con i rispettivi comandi:
+
+- `/channel create <canale>`, per creare un canale.
+- `/channel leave`, per uscire dal canale a cui si è connessi.
+- `/channel invite <giocatore>`, per invitare altri ad un canale. 
+- `/channel join <canale>`, per entrare in un canale vocale.
+
+Per *uscire* dalla chat vocale basta chiudere la pagina del browser.
 
 ## Compatiblità client side
 Il server offre le stesse possibilità a giocatori Bedrock e Java (Vanilla e non), tuttavia è possibile inserire compatibilità a mod client side che richiedono anche la controparte server, fin quando la mod non crea disuguaglianze e/o diminiuisce l'esperienza dei giocatori vanilla.
