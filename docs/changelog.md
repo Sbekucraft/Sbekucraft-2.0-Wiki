@@ -2,7 +2,7 @@
 In questa pagina verranno riportate le note di aggiornamento del server.  
 Per restare aggiornato sulle novità segui l'[apposito topic nel gruppo Telegram](https://t.me/sbekucraft/39812).
 
-## **2.1** - 20 Aprile, 2024
+## **2.1** <span style="color: #8B8C9A">- 25 Marzo, 2024</span>
 Dopo un mese di lavoro siamo riusciti a portarvi la versione 2.1, completamente ricreata da zero dopo il passaggio da Fabric a Paper. In questa versione vi è un rework totale di quasi tutte le componenti già esistendi del server. Abbiamo un nuovo sistema di claim, e abbiamo riportate delle quality of life dal vecchio server.
 ### Generazione del mondo
 - Rimosse le mod di worldgen di YUNG e CTOV a favore di *Structory* e *Camps, Castles and Carriages*.
@@ -22,32 +22,39 @@ Dopo un mese di lavoro siamo riusciti a portarvi la versione 2.1, completamente 
 - I lati del claim sono ora scollegati l'uno dall'altro. Questo permette di avere dei claim rettangolari di dimensione dinamica, fino ad un rapporto di 6:1.
 - I claim già creati sono stati resettati. Per crearne di nuovi sarà necessario avere un corrispettivo monetario in Lore.
 
-## **2.0.2 **(22/02/2024)
+---
+## **2.0.2** <span style="color: #8B8C9A">- 22 Febbraio, 2024</span>
 - Sostituita DynMap con [pl3xmap](https://modrinth.com/plugin/pl3xmap) che offre migliori perfomance
 - Rimosse **temporaneamente** la visualizzazione dei claim e dei marker nella mappa (dobbiamo rifare l'integrazione)
 
-## **2.0.1** (19/02/2024)
+---
+## **2.0.1** <span style="color: #8B8C9A">- 19 Febbraio, 2024</span>
 - Aggiunta mod [Quicksort](https://modrinth.com/mod/quicksort) 
 - Rimossa mod Dynamic Lighting per cercare di mitigare problemi di perfomance
 - Aggiornati plugin per supporto alla nuova versione di Bedrock
 
-## **2.0.0** (16/02/2024) 
+---
+## **2.0.0** <span style="color: #8B8C9A">- 16 Febbraio, 2024</span>
 - Apertura al pubblico
 
-## **1.9.9** (05/01/2024)
+---
+## **1.9.9** <span style="color: #8B8C9A">- 5 Gennaio, 2024</span>
 - Open Beta di Sbekucraft 2.0
 - Lista delle mod cambiata totalmente
 - Generazione del mondo moddata e nettamente migliorata dopo esserci confrontati con la community
 
-## R.I.P (18/12/2023)
+---
+## R.I.P <span style="color: #8B8C9A">- 18 Dicembre, 2023</span>
 - Oracle uccide il server
 - Mappa persa 
 
-## **1.2.0** (19/06/2023)
+---
+## **1.2.0** <span style="color: #8B8C9A">- 19 Giugno, 2023</span>
 - Aggiornato il server alla versione di Minecraft 1.20.1
 - Aggiunta [*SurvivalDebugStick*](https://www.curseforge.com/minecraft/mc-mods/survival-debug-stick)
 
-## **1.1.0** (27/05/2023)
+---
+## **1.1.0** <span style="color: #8B8C9A">- 27 Maggio, 2023</span>
 - Aumentata difficoltà del mondo (da normal ad hard)
 - Aggiunte mod di ottimizzazione (*Starlight* al posto di *Phosphor*, *FerriteCore*, *Krypton*, *ServerCore*, *C2ME*)
 - Aggiunta *Image2Map*, che permette permette di importare delle immagini dal web e farci dei quadri
@@ -55,22 +62,26 @@ Dopo un mese di lavoro siamo riusciti a portarvi la versione 2.1, completamente 
 - Aggiunto *DynMap* e [relativa pagina web](https://map.sbekucraft.it) per visualizzare la mappa
 - Rimossa *Double Doors*
 
-## **1.0.2 **(15/05/2023)
+---
+## **1.0.2** <span style="color: #8B8C9A">- 15 Maggio, 2023</span>
 - Aggiunta *Extended Bone Meal*, si può usare la polvere d'osso su altre piante come cactus e canne da zucchero, inoltre usandola da crouchati si porta la coltivazione subito al livello massimo.
 - Aggiunta *Tree Harvester*, sostiuisce la vecchia Falling Tree, dovrebbe funzionare un po' meglio e anche su alberi grossi, inotlre ripianta l'alberino se viene droppato.
 - Aggiunta *Double Doors*, fa aprire/chiudere insieme porte doppie (botole, cancelletti, etc)
 - Aggiunta *Anvil Restoration*, è possibile riparare un incudine cliccando col destro con un lingotto di ferro (che verrà consumato nel processo)
 - Aggiunta *Fixed Anvil Repair Cost*, i costi di riparazione degli item avranno un costo fisso di 3 livelli massimo per ciascuna riparazione e ciascuna riparazione con un singolo lingotto/diamante riparerà sempre del 33.3%, in questo modo con 3 riparazioni si avrà sempre full con un massimo di 9 livelli. Unica pecca è che fa fare solo una riparazione per volta ma mi sembra comunque meglio che vanilla.
 
-## **1.0.1** (09/05/2023)
+---
+## **1.0.1** <span style="color: #8B8C9A">- 9 Maggio, 2023</span>
 - Aggiunta *HarvestWithHease*, utilizzando una zappa sulle coltivazioni verrà droppato il raccolto e rimpiazzato con uno nuovo.
 - abbassato il numero di utenti necessario per triggerare il dormire al 30% 🛌
 
-## **1.0.0 **(03/05/2023)
+---
+## **1.0.0** <span style="color: #8B8C9A">- 3 Maggio, 2023</span>
 - Public release
 - Presenti mod di ottimizzazione e anticheating 
 - Presenti mod di QoL *Inventory Sorter* e *Quicksort*
 - Presente mod per claim di territori *Get Off My Lawn*
 
-## **0.9.9** (04/04/2023)
+---
+## **0.9.9** <span style="color: #8B8C9A">- 4 Aprile, 2023</span>
 - Closed beta per Sbeku Outer Wilds Content Team 
