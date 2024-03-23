@@ -91,16 +91,6 @@
     Permette, tramite la pressione del tasto SHIFT sopra un oggetto da poter equipaggiare, di confrontarlo rapidamente con ciò che si ha già equipaggiato al momento.
     
     ---
-    ### [Get Off My Lawn ReServed (GOML)](https://modrinth.com/mod/goml-reserved)
-    Mod lato server, ovviamente presente anche sul server, che aggiunge la possibilità di creare e personalizzare claim.  
-    Aggiunta anche lato client principalmente per miglioria della sincronia client-server e per permettere ai moderatori di avere gli oggetti della mod in creativa. 
-    
-    ---
-    ### [Harvest with ease](https://modrinth.com/mod/harvest-with-ease)
-    Mod lato server, ovviamente presente anche sul server, che permette di mietere i raccolti più facilmente tramite tasto destro con una zappa in mano senza il bisogno di ripiantare.   
-    Aggiunta anche lato client principalmente per miglioria della sincronia client-server.
-    
-    ---
     ### [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
     Sostituisce automaticamente gli stack che si esauriscono nella hotbar con un altro stack dello stesso oggetto se presente nell'inventario.
     
@@ -147,6 +137,16 @@
     ---
     ### [Status Effect Bars](https://modrinth.com/mod/status-effect-bars)
     Aggiunge una piccola barra di durata negli effetti da cui un giocatore è affetto.
+
+    ---
+    ### [WorldEdit](https://modrinth.com/mod/worldedit)
+    Aggiunge molte comodità per l'editing in game del mondo di gioco.  
+    Sul server serve solo come integrazione per il plugin di claim.
+
+    ---
+    ### [WorldEdit CUI](https://modrinth.com/mod/worldedit-cui)
+    Aggiunge alcune interfacce grafiche per WorldEdit.  
+    Sul server serve solo come integrazione per il plugin di claim.
     
     ---
     ### [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
