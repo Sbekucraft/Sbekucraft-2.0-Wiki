@@ -81,7 +81,6 @@ Nel server sono presenti alcune funzionalità di quality of life:
 - Tenere una torcia in mano crea luce attorno a te.
 - Tutte le ricette risultano immediatamente sbloccate.
 - Aprire o chiudere una doppia porta apre o chiude entrambe le porte.
-- La notte passa più velocemente in base a quanti giocatori stanno dormendo. Superati il 60% dei giocatori verrà comunque saltata automaticamente.
 
 Queste mod semplificano la vita dei giocatori velocizzando alcuni processi lenti o tediosi, senza però modificare gli aspetti fondamentali del gioco.
 
