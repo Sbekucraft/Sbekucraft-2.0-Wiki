@@ -34,11 +34,18 @@ Attualmente le skill disponibili sono **caccia**, **estrazione** e **coltivazion
 In seguito al rework del server, per creare dei claim è necessario disporre di una certa quantità di Lore.
 Il costo dell'area è di 1.5 lore per blocco, e quando proverai a claimare un'area che non puoi permetterti verrà esplicitata la quantità di lore necessaria.
 
-Per creare un claim devi prima definire l'area da claimare. Per farlo, ti consigliamo di usare della lana, o dei blocchi facilmente riconoscibili per definire gli estremi del claim; poi mettiti sopra al primo vertice dell'area da claimare e usa `//pos1`, poi usa `//pos2` sul vertice opposto. Una volta selezionata l'area, puoi creare un claim tramite il comando `/lc claim <Nome dell'area>`. L'area claimata si estenderà lungo tutto l'asse verticale, dalla bedrock fino al limite di altezza.
+Per creare un claim devi prima definire l'area da claimare. Per farlo, ti consigliamo di usare della lana, o dei blocchi facilmente riconoscibili per definire gli estremi del claim (in quanto non sarà possibile vedere i limiti dell'area successivamente), poi puoi proseguire in due modi:
 
-Puoi aprire un'interfaccia contentenente tutto ciò che riguarda i claim con `/lc`, tramite cui sarà anche possibile aggiungere giocatori al tuo claim. 
+- Mettiti sopra al primo vertice dell'area da claimare e usa `//pos1`, poi usa `//pos2` sul vertice opposto.
+- Prendi in mano un bastone e usa il tasto *rompi blocco* (click sinistro) sul primo vertice dell'area da claimare, poi, sempre col bastone in mano usa il tasto *interazione* (click destro) sul vertice opposto.
+ 
+Una volta selezionata l'area, puoi creare un claim tramite il comando `/lc claim <Nome dell'area>`. L'area claimata si estenderà lungo tutto l'asse verticale, dalla bedrock fino al limite di altezza.
+
+Puoi aprire un'interfaccia contentenente tutto ciò che riguarda i claim con `/lc`, tramite cui sarà anche possibile aggiungere giocatori al tuo claim.
 
 L'area claimata non è necessariamente quadrata, è possibile claimare un'area rettangolare fino a un rapporto di 9:1. Per estendere un claim, basta crearne un altro accanto. Tuttavia, una singola regione non può eccedere un'area di 160801 blocchi, ovvero poco 628 chunk.
+
+**Nota: se utilizzi il modpack potrai notare l'area che viene mostrata dinamicamente. Una volta finito di claimare, per deselezionare l'area puoi usare** `//desel` **.**
 
 ## PvP
 Il PvP nel server è disattivato di base. Per attivarlo basta usare il comando `/pvp on`, e per disattivarlo `/pvp off`.
