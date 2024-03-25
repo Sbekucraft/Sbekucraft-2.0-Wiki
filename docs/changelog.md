@@ -7,6 +7,8 @@ Dopo un mese di lavoro siamo riusciti a portarvi la versione 2.1, completamente 
 
 Sebbene ci siano stati cambiamenti in quasi tutti i componenti, qui sono elencati i cambiamenti principali lato utente dalla 2.0.2.
 
+### Generali
+- Impostato due punti di riavvio giornalieri del server, alle 4:10 e alle 16:10. Il server sarà riattivo un minuto dopo il riavvio.
 ### Generazione del mondo
 - Rimosse le mod di worldgen di YUNG e CTOV a favore di *Structory* e *Camps, Castles and Carriages*.
 - La maggior parte dei chunk della mappa sono stati resettati per rigenerare dei dungeon rotti, saltando selettivamente soltanto le aree in prossimità delle basi dei giocatori.
@@ -21,6 +23,7 @@ Sebbene ci siano stati cambiamenti in quasi tutti i componenti, qui sono elencat
 - Aprire una porta che è collegata ad un altra (porta doppia) adesso aprirà entrambe.
 - Usare il tasto interazione (tasto destro) sugli ortaggi maturi li romperà e piazzerà automaticamente dei nuovi semi.
 - La notte passerà più velocemente se una percentuale di giocatori sta dormendo. La percentuale di giocatori necessari per saltarla è stato aumentato al 60%.
+- Dopo tre minuti senza input i giocatori verranno impostati come AFK. Quando si è AFK, non si può né infliggere né ricevere danni.
 ### Claim
 - I lati del claim sono ora scollegati l'uno dall'altro. Questo permette di avere dei claim rettangolari di dimensione dinamica, fino ad un rapporto di 6:1.
 - I claim già creati sono stati resettati. Per crearne di nuovi sarà necessario avere un corrispettivo monetario in Lore.
