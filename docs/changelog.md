@@ -19,10 +19,13 @@ Sebbene ci siano stati cambiamenti in quasi tutti i componenti, qui sono elencat
 - Introdotta la chat vocale di prossimità. Collegandosi a questa chat sarà possibile parlare con gli altri giocatori in uno spazio tridimensionale immersivo.
 ### Gameplay
 - Riabilitata la luce dinamica su torce e lanterne. Adesso potrete tenere torce in mano per illuminare le vostre sessioni di mining.
+- Impostata la difficoltà ad hard.
 - Disabilitato lo spawn dei Phantom.
 - Aprire una porta che è collegata ad un altra (porta doppia) adesso aprirà entrambe.
 - Usare il tasto interazione (tasto destro) sugli ortaggi maturi li romperà e piazzerà automaticamente dei nuovi semi.
-- La notte passerà più velocemente se una percentuale di giocatori sta dormendo. La percentuale di giocatori necessari per saltarla è stato aumentato al 60%.
+- La percentuale di giocatori necessari per saltarla è stato aumentato al 60%.
+- Aggiunta una transizione dalla notte al giorno.
+- Risvegliarsi dopo una notte di sonno adesso darà rigenerazione I per 180 secondi e velocità I e forza I per 300 secondi.
 - Dopo tre minuti senza input i giocatori verranno impostati come AFK. Quando si è AFK, non si può né infliggere né ricevere danni.
 ### Claim
 - I lati del claim sono ora scollegati l'uno dall'altro. Questo permette di avere dei claim rettangolari di dimensione dinamica, fino ad un rapporto di 6:1.
