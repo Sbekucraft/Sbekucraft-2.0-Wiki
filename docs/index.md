@@ -15,7 +15,7 @@ Ti consigliamo di leggere la nostra [guida al server](guida.md), dove potrai tro
 
 Ti consigliamo anche di entrare nel [gruppo Telegram](https://t.me/sbekucraft) dove postiamo informazioni ed aggiornamenti nell'[apposito topic](https://t.me/sbekucraft/39812) e puoi chattare con gli altri membri della community.
 
-Ti ricordiamo di leggere le [regole](regole.md) del server. Non sono difficili da seguire, l'importante è utilizare il buon senso.
+Ti ricordiamo di leggere le [regole](regole.md) del server. Non sono difficili da seguire, l'importante è utilizzare il buon senso.
 
 Infine, se stai giocando dalla versione Java puoi provare il nostro [modpack opzionale](client/installazione.md).
 

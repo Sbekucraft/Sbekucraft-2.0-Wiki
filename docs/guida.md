@@ -43,7 +43,7 @@ Una volta selezionata l'area, puoi creare un claim tramite il comando `/lc claim
 
 Puoi aprire un'interfaccia contentenente tutto ciò che riguarda i claim con `/lc`, tramite cui sarà anche possibile aggiungere giocatori al tuo claim.
 
-L'area claimata non è necessariamente quadrata, è possibile claimare un'area rettangolare fino a un rapporto di 9:1. Per estendere un claim, basta crearne un altro accanto. Tuttavia, una singola regione non può eccedere un'area di 160801 blocchi, ovvero poco 628 chunk.
+L'area claimata non è necessariamente quadrata, è possibile claimare un'area rettangolare fino a un rapporto di 9:1. Per estendere un claim, basta crearne un altro accanto. Tuttavia, una singola regione non può eccedere un'area di 160801 blocchi, ovvero circa 628 chunk.
 
 **Nota: se utilizzi il modpack potrai notare l'area che viene mostrata dinamicamente. Una volta finito di claimare, per deselezionare l'area puoi usare** `//desel` **.**
 

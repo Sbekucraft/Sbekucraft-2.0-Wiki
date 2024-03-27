@@ -2,6 +2,12 @@
 In questa pagina verranno riportate le note di aggiornamento del server.  
 Per restare aggiornato sulle novità segui l'[apposito topic nel gruppo Telegram](https://t.me/sbekucraft/39812).
 
+## **2.1.1** <span style="color: #8B8C9A">- 26 Marzo, 2024</span>
+- Adesso è possibile vedere i claim direttamente dalla mappa.
+- Modificata una configurazione per cui uccidere i mostri comuni non dava xp.
+- Modificata una configurazione che richiedeva denaro per mandare messaggi privati ai giocatori.
+
+---
 ## **2.1** <span style="color: #8B8C9A">- 25 Marzo, 2024</span>
 Dopo un mese di lavoro siamo riusciti a portarvi la versione 2.1, completamente ricreata da zero dopo il passaggio da Fabric a Paper. In questa versione vi è un rework totale di quasi tutte le componenti già esistendi del server. Abbiamo un nuovo sistema di claim, e abbiamo riportato delle quality of life dal vecchio server.
 
