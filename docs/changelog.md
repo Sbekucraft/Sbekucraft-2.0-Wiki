@@ -8,11 +8,11 @@ Con questo update vi portiamo una nuova funzionalità: la possibilità di modifi
 ### Claim
 - Aggiunta la funzionalità "ridimensiona claim". Questo tool vi permette di ridimensionare e anche spostare claim già esistenti.
 - Aggiunti i messaggi di ritiro e riconsegna di Lore dopo aver creato, eliminato e ridimensionato un claim.
+- Adesso è possibile vedere i claim direttamente dalla mappa.
 
 ### Gameplay
 - Risolto un bug che non permetteva di ricevere skill xp da diversi mob comuni.
 - Risolto un bug che non permetteva di ricevere sbeuri da diversi mob comuni.
-- Adesso è possibile vedere i claim direttamente dalla mappa.
 - Modificata una configurazione che richiedeva denaro per mandare messaggi privati ai giocatori.
 
 ## **2.1** <span style="color: #8B8C9A">- 25 Marzo, 2024</span>
