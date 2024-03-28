@@ -20,7 +20,7 @@ Lo staff si riserva il diritto di punire chi non segue le regole silenziando, ki
 2. Nel rispetto degli altri giocatori, è vietato usare bestemmie e slurring in chat globale.
 3. È vietata la promozione o distribuzione di materiale o ideologie estremiste o nocive.
 4. È vietato l'uso di account secondari ai fini di ottenere più risorse del dovuto, per via di glitch, bug o carenze di bilanciamento.
-5. È vietato l'uso di xray, client modificati e bot ai fini di ottenere risorse preziose che diano un vantaggio competitivo rispetto agli altri giocatori.
+5. È vietato l'uso di xray, client modificati, client 'hacked' e bot ai fini di ottenere risorse preziose che diano un vantaggio competitivo rispetto agli altri giocatori.
 6. È vietata la realizzazione di strutture che danneggiano le performance del server quali lag machine o abuso di vulnerabilità note nei plugin del server.
 7. Comportamenti che vietano i termini di servizio e le regole generali di Minecraft possono portare a ban immediati.
 8. Non costituirà scusante, in caso di violazione, la mancata conoscenza del regolamento. Inoltre, sarà a discrzione dei moderatori intervenire in caso di elusione dello stesso.

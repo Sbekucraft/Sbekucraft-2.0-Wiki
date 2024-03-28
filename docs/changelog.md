@@ -12,6 +12,8 @@ Con questo update vi portiamo una nuova funzionalità: la possibilità di modifi
 ### Gameplay
 - Risolto un bug che non permetteva di ricevere skill xp da diversi mob comuni.
 - Risolto un bug che non permetteva di ricevere sbeuri da diversi mob comuni.
+- Adesso è possibile vedere i claim direttamente dalla mappa.
+- Modificata una configurazione che richiedeva denaro per mandare messaggi privati ai giocatori.
 
 ## **2.1** <span style="color: #8B8C9A">- 25 Marzo, 2024</span>
 Dopo un mese di lavoro siamo riusciti a portarvi la versione 2.1, completamente ricreata da zero dopo il passaggio da Fabric a Paper. In questa versione vi è un rework totale di quasi tutte le componenti già esistendi del server. Abbiamo un nuovo sistema di claim, e abbiamo riportato delle quality of life dal vecchio server.

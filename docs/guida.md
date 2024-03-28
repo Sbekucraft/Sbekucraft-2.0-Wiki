@@ -45,7 +45,7 @@ Puoi aprire un'interfaccia contentenente tutto ciò che riguarda i claim con `/l
 
 Per ridimensionare un'area rivendicata, basta usare gli stessi metodi già descritti per selezionare l'area ampliata e poi andare nell'apposita sezione in `/lc`, selezionando l'area da modificare e poi la voce "Ridimensiona Area". Il server calcolerà automaticamente la differenza di prezzo tra le due aree.
 
-**Nota I: L'area rivendicata non è necessariamente quadrata, è possibile rivendicare un'area rettangolare fino a un rapporto di 9:1. Per estendere un claim, basta crearne un altro accanto. Tuttavia, una singola regione non può eccedere un'area di 160801 blocchi, ovvero poco 628 chunk.**
+**Nota I: L'area rivendicata non è necessariamente quadrata, è possibile rivendicare un'area rettangolare fino a un rapporto di 9:1. Tuttavia, una singola regione non può eccedere un'area di 160801 blocchi, ovvero circa 628 chunk.**
 
 **Nota II: se utilizzi il modpack potrai notare l'area che viene mostrata dinamicamente. Una volta finito di rivendicare, per deselezionare l'area puoi usare** `//desel` **.**
 
