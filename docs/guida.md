@@ -32,20 +32,24 @@ Attualmente le skill disponibili sono **caccia**, **estrazione** e **coltivazion
 
 ## Claim
 In seguito al rework del server, per creare dei claim è necessario disporre di una certa quantità di Lore.
-Il costo dell'area è di 1.5 lore per blocco, e quando proverai a claimare un'area che non puoi permetterti verrà esplicitata la quantità di lore necessaria.
+Il costo dell'area è di 1.5 lore per blocco, e quando proverai a rivendicare un'area che non puoi permetterti verrà esplicitata la quantità di lore necessaria.
 
-Per creare un claim devi prima definire l'area da claimare. Per farlo, ti consigliamo di usare della lana, o dei blocchi facilmente riconoscibili per definire gli estremi del claim (in quanto non sarà possibile vedere i limiti dell'area successivamente), poi puoi proseguire in due modi:
+Per creare un claim devi prima definire l'area da rivendicare. Per farlo, ti consigliamo di usare della lana, o dei blocchi facilmente riconoscibili per definire gli estremi del claim (in quanto non sarà possibile vedere i limiti dell'area successivamente), poi puoi proseguire in due modi:
 
-- Mettiti sopra al primo vertice dell'area da claimare e usa `//pos1`, poi usa `//pos2` sul vertice opposto.
-- Prendi in mano un bastone e usa il tasto *rompi blocco* (click sinistro) sul primo vertice dell'area da claimare, poi, sempre col bastone in mano usa il tasto *interazione* (click destro) sul vertice opposto.
+- Mettiti sopra al primo vertice dell'area da rivendicare e usa `//pos1`, poi usa `//pos2` sul vertice opposto.
+- Prendi in mano un bastone e usa il tasto *rompi blocco* (click sinistro) sul primo vertice dell'area da rivendicare, poi, sempre col bastone in mano usa il tasto *interazione* (click destro) sul vertice opposto.
  
-Una volta selezionata l'area, puoi creare un claim tramite il comando `/lc claim <Nome dell'area>`. L'area claimata si estenderà lungo tutto l'asse verticale, dalla bedrock fino al limite di altezza.
+Una volta selezionata l'area, puoi creare un claim tramite il comando `/lc claim <Nome dell'area>`. L'area rivendicata si estenderà lungo tutto l'asse verticale, dalla bedrock fino al limite di altezza.
 
-Puoi aprire un'interfaccia contentenente tutto ciò che riguarda i claim con `/lc`, tramite cui sarà anche possibile aggiungere giocatori al tuo claim.
+Puoi aprire un'interfaccia contentenente tutto ciò che riguarda i claim con `/lc`, tramite cui sarà possibile aggiungere giocatori al tuo claim, modificare i permessi del tuo claim e ridimensionarne l'area.
 
-L'area claimata non è necessariamente quadrata, è possibile claimare un'area rettangolare fino a un rapporto di 9:1. Per estendere un claim, basta crearne un altro accanto. Tuttavia, una singola regione non può eccedere un'area di 160801 blocchi, ovvero poco 628 chunk.
+Per ridimensionare un'area rivendicata, basta usare gli stessi metodi già descritti per selezionare l'area ampliata e poi andare nell'apposita sezione in `/lc`, selezionando l'area da modificare e poi la voce "Ridimensiona Area". Il server calcolerà automaticamente la differenza di prezzo tra le due aree.
 
-**Nota: se utilizzi il modpack potrai notare l'area che viene mostrata dinamicamente. Una volta finito di claimare, per deselezionare l'area puoi usare** `//desel` **.**
+**Nota I: L'area rivendicata non è necessariamente quadrata, è possibile rivendicare un'area rettangolare fino a un rapporto di 9:1. Per estendere un claim, basta crearne un altro accanto. Tuttavia, una singola regione non può eccedere un'area di 160801 blocchi, ovvero poco 628 chunk.**
+
+**Nota II: se utilizzi il modpack potrai notare l'area che viene mostrata dinamicamente. Una volta finito di rivendicare, per deselezionare l'area puoi usare** `//desel` **.**
+
+**Nota III: attualmente è possibile ridimensionare soltanto le regioni, non i plot.**
 
 ## PvP
 Il PvP nel server è disattivato di base. Per attivarlo basta usare il comando `/pvp on`, e per disattivarlo `/pvp off`.

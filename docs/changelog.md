@@ -2,6 +2,17 @@
 In questa pagina verranno riportate le note di aggiornamento del server.  
 Per restare aggiornato sulle novità segui l'[apposito topic nel gruppo Telegram](https://t.me/sbekucraft/39812).
 
+## **2.1.1** <span style="color: #8B8C9A">- 28 Marzo, 2024</span>
+Con questo update vi portiamo una nuova funzionalità: la possibilità di modificare i claim senza doverli eliminare o concatenare con altri claim, oltre a un paio di bugfix.
+
+### Claim
+- Aggiunta la funzionalità "ridimensiona claim". Questo tool vi permette di ridimensionare e anche spostare claim già esistenti.
+- Aggiunti i messaggi di ritiro e riconsegna di Lore dopo aver creato, eliminato e ridimensionato un claim.
+
+### Gameplay
+- Risolto un bug che non permetteva di ricevere skill xp da diversi mob comuni.
+- Risolto un bug che non permetteva di ricevere sbeuri da diversi mob comuni.
+
 ## **2.1** <span style="color: #8B8C9A">- 25 Marzo, 2024</span>
 Dopo un mese di lavoro siamo riusciti a portarvi la versione 2.1, completamente ricreata da zero dopo il passaggio da Fabric a Paper. In questa versione vi è un rework totale di quasi tutte le componenti già esistendi del server. Abbiamo un nuovo sistema di claim, e abbiamo riportato delle quality of life dal vecchio server.
 
