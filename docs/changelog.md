@@ -9,6 +9,7 @@ Con questo update vi portiamo una nuova funzionalità: la possibilità di modifi
 - Aggiunta la funzionalità "ridimensiona claim". Questo tool vi permette di ridimensionare e anche spostare claim già esistenti.
 - Aggiunti i messaggi di ritiro e riconsegna di Lore dopo aver creato, eliminato e ridimensionato un claim.
 - Adesso è possibile vedere i claim direttamente dalla mappa.
+- Ora è possibile vedere dall'interfaccia dei claim, oltre al mondo in cui si trovano, il punto cardine (ovvero il punto che si trova a nord-ovest della mappa) e la dimensione del claim.
 
 ### Gameplay
 - Risolto un bug che non permetteva di ricevere skill xp da diversi mob comuni.
