@@ -46,16 +46,23 @@
 
     - Default Dark Mode
     - Even Better Enchants (EBE)
+    - 3D Sugar Canes
     - Reimagined Fixes
     - Reimagined FA Patch
     - Fresh Animations
     - Bees Reimagined
-    - Chests Reimagined
     - Torches Reimagined
-    - Ore Glint Coal Addon
+    - Chests Reimagined
+    - Mushrooms Plus
+    - Door Tweaks
+    - 3D Variated Bookshelves
+    - Simply 3D Extra
+    - Simply 3D
+    - RAY's 3D Rails
+    - RAY's 3D Ladders
+    - Ore Glint - Coal Addon
     - Ore Glint - Sodium
     - Ore Variants
-    - 3D Default
     - Glass Pane Culling Fix
     - Default Connected Textures
     - Eating Animation

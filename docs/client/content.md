@@ -221,7 +221,7 @@
     Richiesta dalla mod [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions).
     
     ---
-    ### [CIT Resewn](https://github.com/dicedpixels/CITResewn/releases/tag/1.20.4-1.1.4-dicedpixels)
+    ### [CIT Resewn](https://modrinth.com/mod/cit-resewn)
     Richiesta dal texture pack [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants).
 
     ---
@@ -259,6 +259,10 @@
     ---
     ### [Konkrete](https://modrinth.com/mod/konkrete)
     Richiesta dalla mod [FancyMenu](#fancymenu).
+
+    ---
+    ### [ModMenu](https://modrinth.com/mod/modmenu)
+    Utilità per configurare più facilmente le altre mod.
     
     ---
     ### [No Resource Pack Warnings](https://modrinth.com/mod/no-resource-pack-warnings)
@@ -281,8 +285,12 @@
     Richiesta dalla mod [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next).
 
 === "Texture Pack"
-    ### [3D Default](https://modrinth.com/resourcepack/3d-default)
-    Aggiunge una leggera e piacevole tridimensionalità a molti blocchi.
+    ### [3D Variated Bookshelves](https://modrinth.com/resourcepack/3dvariatedbookshelves)
+    Rende la texture delle librerie più variata e tridimensionale.
+    
+    ---
+    ### 3D Sugar Canes
+    TP esclusivo del modpack che rende la texture delle canne da zucchero tridimensionale.
     
     ---
     ### [Bees Reimagined](https://modrinth.com/resourcepack/bees-reimagined)
@@ -295,6 +303,10 @@
     ---
     ### [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
     Rende la GUI in dark mode.
+
+    ---
+    ### [Door Tweaks](https://modrinth.com/resourcepack/door-tweaks/gallery)
+    Rende le porte e le botole leggermente 3D.
     
     ---
     ### [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
@@ -303,6 +315,10 @@
     ---
     ### [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
     Aggiunge fantastiche animazioni uniche per ciascun mob.
+    
+    ---
+    ### [Mushrooms Plus](https://modrinth.com/resourcepack/mushrooms-plus)
+    Rende la texture dei funghi tridimensionale.
     
     ---
     ### [Ore Glint](https://modrinth.com/resourcepack/spryzeens-ore-glint)
@@ -317,8 +333,12 @@
     Aggiunge un po' di variazione nelle texture dei minerali.
     
     ---
-    ### [Rails Reimagined](https://modrinth.com/resourcepack/rails-reimagined)
+    ### [RAY's 3D Rails](https://modrinth.com/resourcepack/rays-3d-rails/gallery)
     Rende la texture delle rotaie tridimensionale.
+
+    ---
+    ### [RAY's 3D Ladders](https://modrinth.com/resourcepack/rays-3d-ladders/gallery)
+    Rende la texture delle scale a pioli tridimensionale.
     
     ---
     ### [Reimagined Fresh Animations Patch](https://modrinth.com/resourcepack/reimagined-fresh-animations-patch)
@@ -326,7 +346,15 @@
     
     ---
     ### Reimagined Fixes
-    TP esclusivo del modpack per fixare le teste di scheletro altrimenti non visibili per via di [Reimagined FA Patch](#reimagined-fa-patch).
+    TP esclusivo del modpack per piccoli ritocchi e fix del TP [Reimagined FA Patch](#reimagined-fa-patch).
+    
+    ---
+    ### [Simply 3D](https://modrinth.com/resourcepack/simply3d)
+    Rende la texture dei vari banchi da lavoro tridimensionale.
+    
+    ---
+    ### [Simply 3D Extras](https://modrinth.com/resourcepack/simply3d-extras)
+    Rende la texture di pochi blocchi tridimensionale.
     
     ---
     ### [Torches Reimagined](https://modrinth.com/resourcepack/torches-reimagined)
