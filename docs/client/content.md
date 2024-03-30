@@ -222,7 +222,7 @@
     
     ---
     ### [CIT Resewn](https://modrinth.com/mod/cit-resewn)
-    Richiesta dal texture pack [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants).
+    Richiesta dal texture pack [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants) e Reimagined Fixes.
 
     ---
     ### [CreativeCore](https://modrinth.com/mod/creativecore)
