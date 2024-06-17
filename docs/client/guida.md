@@ -28,7 +28,7 @@
     - Animazioni aggiuntive per quando si mangia e per la visuale in terza persona.
     - Tridimensionalità nella texture di molti blocchi.
     - Luccichio dei minerali.
-    - Shader incluse, sia per basse che per alte performace.
+    - Shader incluse, sia per basse che per alte performace, e sempre compatibili con Distant Horizons.
 
 === "Disabilitare contenuto"
     ### Mod
@@ -72,7 +72,7 @@
 
     ---
     ### Shader
-    Disabilitare le shader è consigliato nel caso in cui nemmeno la shader più performante, Miniature Shader, permetta di giocare a un livello di fluidità sufficiente.
+    Disabilitare le shader è consigliato nel caso in cui nemmeno la shader più performante, Pixel Perfect, permetta di giocare a un livello di fluidità sufficiente.
 
 === "Aggiungere contenuto"
     L'aggiunta di mod, texture pack o shader non presenti tra quelle predefinite nel modpack è da considerarsi lecito purché l'utilizzo di esse non vada ad infrangere il [regolamento del server](https://wiki.sbekucraft.it/regole) in alcun modo.  

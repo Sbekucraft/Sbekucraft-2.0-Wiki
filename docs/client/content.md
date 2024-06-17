@@ -64,6 +64,10 @@
     ---
     ### [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)
     Rende la schermata di caricamento in dark mode.
+
+    ---
+    ### [Distant Horizons](https://modrinth.com/mod/distanthorizons)
+    Permette di aumentare incredibilmente la distanza di rendering con un minimo impatto sulle performance.
     
     ---
     ### [Drip Sounds](https://modrinth.com/mod/dripsounds-fabric)
@@ -371,6 +375,5 @@
     Sono le shader attive di default.
 
     ---
-    ### [Miniature Shaders](https://modrinth.com/shader/miniature-shader)
+    ### [Pixel Perfect](https://modrinth.com/shader/pixel-perfect)
     Shader molto leggere, ma molto belle e in perfetto stile Minecraft.  
-    Per chi ha problemi di performance anche con queste è consigliato, prima di togliere del tutto le shaders, provare ad abbassare il dettaglio delle ombre.  
